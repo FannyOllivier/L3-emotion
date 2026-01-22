@@ -1,1 +1,1 @@
-Sitemap: https://fannyollivier.github.io/cours/sitemap.xml
+Sitemap: https://fannyollivier.github.io/L3-emotion/sitemap.xml
