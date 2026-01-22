@@ -1,0 +1,13 @@
+```yaml
+project:  
+  type: website
+  output-dir: docs                                                       
+                                                                          
+website:                                                                  
+  title: "CM L1"                                        
+  site-url: "https://fannyollivier.github.io/cours"
+                                                                          
+format:                                                                   
+  revealjs:
+   multiplex: true
+```
