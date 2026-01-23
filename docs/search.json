@@ -1,16 +1,142 @@
 [
   {
-    "objectID": "Cours.html#quarto",
-    "href": "Cours.html#quarto",
+    "objectID": "Cours.html#objectifs-du-cours",
+    "href": "Cours.html#objectifs-du-cours",
     "title": "Émotion et Cognition",
-    "section": "Quarto",
-    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/.\n8888"
+    "section": "Objectifs du cours",
+    "text": "Objectifs du cours\n\nDéfinir les émotions\nComprendre comment les émotions influencent les processus cognitifs (attention/mémoire/raisonnement)\nComprendre comment les processus cognitifs peuvent moduler les expériences émotionnelles (régulation émotionnelle)\nExaminer les différences individuelles dans ces processus et les interactions"
   },
   {
-    "objectID": "Cours.html#code",
-    "href": "Cours.html#code",
+    "objectID": "Cours.html#répartition-des-tâches",
+    "href": "Cours.html#répartition-des-tâches",
     "title": "Émotion et Cognition",
-    "section": "Code",
-    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2"
+    "section": "Répartition des tâches",
+    "text": "Répartition des tâches\nCours :\n‒ Apporter des connaissances générales et méthodologiques sur l’étude des relations entre émotion et cognition\nÉtudiant.e :\n‒ Mettre en relation ces connaissances et un champ de recherche à choisir (e.g., vieillissement, apprentissages, développement de l’enfant, orientation)"
+  },
+  {
+    "objectID": "Cours.html#évaluation-du-cours",
+    "href": "Cours.html#évaluation-du-cours",
+    "title": "Émotion et Cognition",
+    "section": "Évaluation du cours",
+    "text": "Évaluation du cours\n‒ Sujet type cadre théorique dans une réponse à un AAP/ abstract (sans les résultats) en un nombre de mots donné\nexemple p.31\n‒ Critères de réussite :\n- Sélection et mise en lien de notions apprises en cours \n- Fluidité et lisibilité de la rédaction \n- Apports de sa recherche personnelle sur le sujet (lectures complémentaires)\n\néviter les catalogues, juxtaposition, récitation de cours"
+  },
+  {
+    "objectID": "Cours.html#source-principale",
+    "href": "Cours.html#source-principale",
+    "title": "Émotion et Cognition",
+    "section": "Source Principale",
+    "text": "Source Principale\n‒ Lemaire, P. (2021). Émotion et cognition: Série LMD. De Boeck Supérieur.\n ## Plan de la première partie du cours\nIntroduction =&gt; Quelles questions en psychologie sur le lien entre émotion et cognition ?\nDéfinition des émotions =&gt; Modèles théoriques\nComment étudier le lien entre émotion et cognition ? =&gt; Que cherche-t-on ? =&gt; Induire l’émotion ou utiliser ses occurences naturelles =&gt; Induire l’émotion en dehors de la tâche ou par la tâche (incidentes vs. intégrales)\n\nrevenir sur cette diapo en début de cours"
+  },
+  {
+    "objectID": "Cours.html#les-émotions-dans-nos-vies",
+    "href": "Cours.html#les-émotions-dans-nos-vies",
+    "title": "Émotion et Cognition",
+    "section": "Les émotions dans nos vies",
+    "text": "Les émotions dans nos vies\nRôle central\n\nActions\nPensées\nRelations\n\n=&gt; guident nos actions au quotidien\n\n«Elles interviennent dans nos actions, nos pensées et nos relations. Elles nous aident à détecter et repérer ce qui est important, à mémoriser, à comprendre et à décider. Elles guident nos actions au quotidien.»"
+  },
+  {
+    "objectID": "Cours.html#les-émotions-dans-la-recherche",
+    "href": "Cours.html#les-émotions-dans-la-recherche",
+    "title": "Émotion et Cognition",
+    "section": "Les émotions dans la recherche",
+    "text": "Les émotions dans la recherche\n‒ Sciences cognitives et affectives\n• Psychologie\n• Linguistique\n• Philosophie\n• Sociologie\n• Anthropologie\n• Informatique\n• Psychiatrie\n‒ Depuis les années 80\n\nParce qu’elles sont centrales, elles sont étudiées par différentes disciplines. Exemples : - Informatique : IA"
+  },
+  {
+    "objectID": "Cours.html#les-émotions-dans-la-recherche-1",
+    "href": "Cours.html#les-émotions-dans-la-recherche-1",
+    "title": "Émotion et Cognition",
+    "section": "Les émotions dans la recherche",
+    "text": "Les émotions dans la recherche\nActes du colloque « Émotions et science : interactions », université de Nice (2020)"
+  },
+  {
+    "objectID": "Cours.html#quelles-questions-peuvent-elles-se-poser-dans-la-recherche",
+    "href": "Cours.html#quelles-questions-peuvent-elles-se-poser-dans-la-recherche",
+    "title": "Émotion et Cognition",
+    "section": "Quelles questions peuvent-elles se poser dans la recherche ?",
+    "text": "Quelles questions peuvent-elles se poser dans la recherche ?\nlien Wooclap\nou wooclap.com, code YNCKQT"
+  },
+  {
+    "objectID": "Cours.html#exemples-de-questions-actuelles-en-psychologie-des-émotions",
+    "href": "Cours.html#exemples-de-questions-actuelles-en-psychologie-des-émotions",
+    "title": "Émotion et Cognition",
+    "section": "Exemples de questions actuelles en psychologie des émotions",
+    "text": "Exemples de questions actuelles en psychologie des émotions\n‒ Comment sait-on si quelqu’un éprouve une émotion ? Comment sait-on quelle émotion il éprouve ? Qu’est-ce qu’une émotion ?\n‒ Combien d’émotions fondamentales de base différentes existe-t-il ? Quelles sont-elles ? Comment faisons-nous pour distinguer entre plusieurs émotions ?\n‒ Qu’est-ce qu’une émotion forte (ou intense) vs. une émotion moins forte ? ‒ Les émotions sont-elles universelles et innées (et présentes dans toutes les cultures) ou varient-elles selon la culture ? Idem pour l’expression des émotions ?\n‒ Les femmes sont-elles plus émotionnelles que les hommes ? Les personnes jeunes ont-elles plus d’émotions, des émotions plus intenses que les âgés? Les émotions évoluent-elles au cours de la vie ? Certains individus sont-ils plus émotionnels que d’autres ? Comment le savoir ?\n‒ Les animaux ont-ils des émotions ?\n‒ Nos émotions sont-elles différentes lorsque nous sommes seuls à vivre un événement émotionnel et lorsque nous sommes avec un autre ou avec d’autres ?\n‒ Comment formulons-nous nos jugements (discrimination, détermination, identification) émotionnels ?\n‒ A quoi servent les émotions ? Pourrions-nous vivre sans émotion?\n‒ Comment les émotionsinfluencent-elles nos performances cognitives?\n\nVoici quelques grandes questions posées par la psychologie des émotions. Grâce à toutes ces questions, on comprend mieux ce que sont nos émotions, quand nous éprouvons des émotions et ce qui les déclenche, pourquoi nous avons des émotions, et l’impact des émotions sur la cognition."
+  },
+  {
+    "objectID": "Cours.html#temps-de-réflexion-personnel-et-questions",
+    "href": "Cours.html#temps-de-réflexion-personnel-et-questions",
+    "title": "Émotion et Cognition",
+    "section": "Temps de réflexion personnel et questions",
+    "text": "Temps de réflexion personnel et questions\nDans quel champ aimeriez-vous réfléchir à la question du lien entre émotion et cognition ?\nQuels sont vos questionnements de chercheurs a priori ?\n\nprendre le temps d’y réfléchir, de se poser des questions, qui serviront de base à la réflexion\n\nSi vous avez envie de partager vos questions : lien Wooclap"
+  },
+  {
+    "objectID": "Cours.html#quest-ce-quune-émotion",
+    "href": "Cours.html#quest-ce-quune-émotion",
+    "title": "Émotion et Cognition",
+    "section": "Qu’est-ce qu’une émotion ?",
+    "text": "Qu’est-ce qu’une émotion ?\nChacun sait ce qu’est une émotion jusqu’à ce qu’on lui demande d’en donner une définition. À ce moment-là, il semble que plus personne ne le sache.\nFehr & Russell (1984)\n\nAnnées 80, grand essor des questions scientifiques sur les émotions"
+  },
+  {
+    "objectID": "Cours.html#émotions-définitions",
+    "href": "Cours.html#émotions-définitions",
+    "title": "Émotion et Cognition",
+    "section": "Émotions : définitions",
+    "text": "Émotions : définitions\n\nMultiples définitions mais points communs\n\n‒ États internes observables ou non (comportements, expressions verbales ou faciales)\n‒ S’accompagnent de réactions physiologiques (changement de fréquence cardiaque, transpiration, contraction des muscles …)\n‒ Réponses psychologiques et/ou physiologiques d’intensité, de durée, de complexité variables à une situation ‒ Plusieurs types d’émotions"
+  },
+  {
+    "objectID": "Cours.html#émotions-définition",
+    "href": "Cours.html#émotions-définition",
+    "title": "Émotion et Cognition",
+    "section": "Émotions : définition",
+    "text": "Émotions : définition\n« Patrons biologiquement fondés de perception, d’expérience, de physiologie, d’action et de communication, caractérisés par leur aspect épisodique, de courte durée, et qui se produisent en réponse à des défis et opportunités physiques et sociaux spécifiques » \n\n(Keltner & Gross, 1999, p.468)"
+  },
+  {
+    "objectID": "Cours.html#quest-ce-quune-émotion-1",
+    "href": "Cours.html#quest-ce-quune-émotion-1",
+    "title": "Émotion et Cognition",
+    "section": "Qu’est-ce qu’une émotion ?",
+    "text": "Qu’est-ce qu’une émotion ?\n‒ Un ensemble de réponses, d’intensité, de durée et de complexité variables qui s’expriment de manière plus ou moins publique/privée\n‒ Différent de l’humeur ou des sentiments\n‒ Terme chapeau « affects » :\n- Émotions (e.g., colère, tristesse)\n- Réponse au stress\n- Humeur (dépression, euphorie) \n\nHumeur : durable Sentiment : durée longue, construction consciente, vient d’une évaluation subjective (pas en réaction comme l’émotion) Stress: pas sentiment, ni émotion, mais réaction physiologique et psychique à l’environnement. Concepts distingués mais liés (différences physiologiques dans le traitement)"
+  },
+  {
+    "objectID": "Cours.html#différences-entre-émotion-et-autres-affects",
+    "href": "Cours.html#différences-entre-émotion-et-autres-affects",
+    "title": "Émotion et Cognition",
+    "section": "Différences entre émotion et autres affects",
+    "text": "Différences entre émotion et autres affects\n\n\nSynchronisation : l’émotion est synchronisée avec un événement (ou le fait d’y penser) Appraisal : évaluation cognitive"
+  },
+  {
+    "objectID": "Cours.html#caractéristiques-dune-émotion",
+    "href": "Cours.html#caractéristiques-dune-émotion",
+    "title": "Émotion et Cognition",
+    "section": "Caractéristiques d’une émotion",
+    "text": "Caractéristiques d’une émotion\nQuand l’émotion survient-elle ?\n\nThéorie de la ré-évaluation cognitive (Laarus, 1991; Scherer, Schorr & Johnstone, 2001)\nQuand un individu prête attention et évalue une situation comme très pertinente pour un but qu’il poursuit Sens d’une situation ou d’un stimulus -&gt; déclenche une émotion\n\nNature multi-dimensionnelle\n\nÉmotion : multitude de réactions, plus ou moins synchronisées ; réactions physiologiques, subjectives (vécu, ressenti), comportementales et sociales\n\n\nAppraisal theory"
+  },
+  {
+    "objectID": "Cours.html#le-modèle-modal-de-lémotion",
+    "href": "Cours.html#le-modèle-modal-de-lémotion",
+    "title": "Émotion et Cognition",
+    "section": "Le modèle modal de l’émotion",
+    "text": "Le modèle modal de l’émotion\n Barrett et al., 2007; Gross, 1998)\n\nUne émotion survient lorsque nous nous trouvons dans une situation ou face à un stimulus, après évaluation (du caractère dangereux ou pas, ou du caractère agréable/désagréable). L’émotion peut s’exprimer à différents niveaux (depuis les niveaux physiologiques comme l’accélération du rythme cardiaque) jusqu’aux niveaux psychologiques et comportementaux (comme un ressenti de peur et une fuite)."
+  },
+  {
+    "objectID": "Cours.html#taxonomie-des-émotions",
+    "href": "Cours.html#taxonomie-des-émotions",
+    "title": "Émotion et Cognition",
+    "section": "Taxonomie des émotions",
+    "text": "Taxonomie des émotions\n‒ Toujours en questionnement dans la littérature (Eckman, 1984; Averill, 1980; Scherer, 1984), voir Gross & Barrett (2011)\n‒ Émotions de base\n- joie, surprise, \n- colère, tristesse, dégoût, peur\n‒ Émotions réflexives\n- jalousie, envie (émotions comparatives)\n- honte, culpabilité, embarras, fierté, orgueil (émotions d'auto-évaluation)\n\nComment classer les émotions ? Ex de questionnement. Basic 6 en questionnement (parfois 7 quand on ajoute le mépris). Ex : Keltner et al. 2021 proposent une taxonomie avec davantage d’émotions positives. Émotions de base universelles ou non ? Questionne l’existence d’une «base» à proprement parler Eckman (1984) : uniquement des émotions de base et elles sont universelles. Perspective universaliste Averill (1980) : culturel et nécessité d’étudier d’autres émotions (ex: culpabilité). Pas de correspondance parfaite entre les cultures. Le fait qu’une émotion est fondamentale dépend de la culture :ex du «liget» chez les Ilongots (chasseurs de tête des Philippines (caractère agressif exaltant et grisant lorsqu’une tête d’une autre ethnie est tranchée). Ou le hygge en danois Scherer (1984) : approche intégrée. Ce n’est pas parce que des mots différents sont utilisés qu’il ne s’agit pas des mêmes émotions, mais on observe tout de même des différences culturelles."
+  },
+  {
+    "objectID": "Cours.html#deux-dimensions-pour-caractériser-les-émotions",
+    "href": "Cours.html#deux-dimensions-pour-caractériser-les-émotions",
+    "title": "Émotion et Cognition",
+    "section": "Deux dimensions pour caractériser les émotions",
+    "text": "Deux dimensions pour caractériser les émotions\n‒ La valence : de négative à positive\n‒ L’intensité : de faible à forte\n\n\nvalence : continuum plaisant/déplaisant"
+  },
+  {
+    "objectID": "Cours.html#exercice-valence-et-intensité-émotionnelles",
+    "href": "Cours.html#exercice-valence-et-intensité-émotionnelles",
+    "title": "Émotion et Cognition",
+    "section": "Exercice : Valence et intensité émotionnelles",
+    "text": "Exercice : Valence et intensité émotionnelles\n5 questions\nlien Wooclap"
   }
 ]
