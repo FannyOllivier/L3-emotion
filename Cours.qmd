@@ -142,6 +142,7 @@ ou wooclap.com, code YNCKQT
 ‒	Combien d’émotions fondamentales de base différentes existe-t-il ? Quelles sont-elles ? Comment faisons-nous pour distinguer entre plusieurs émotions ?
 
 ‒	Qu’est-ce qu’une émotion forte (ou intense) vs. une émotion moins forte ? 
+
 ‒	Les émotions sont-elles universelles et innées (et présentes dans toutes les cultures)  ou varient-elles selon la culture ? Idem pour l’expression des émotions ?
 
 ‒	Les femmes sont-elles plus émotionnelles que les hommes ? Les personnes jeunes ont-elles plus d’émotions, des émotions plus intenses que les âgés? Les émotions évoluent-elles au cours de la vie ? Certains individus sont-ils plus émotionnels que d’autres ? Comment le savoir ?
@@ -173,7 +174,7 @@ prendre le temps d'y réfléchir, de se poser des questions, qui serviront de ba
 
 Si vous avez envie de partager vos questions : [lien Wooclap](https://app.wooclap.com/events/YNCKQT/live-session)
 
-# Émotions : définition et méthodologie expérimentales
+# Émotions : définition et méthodologie expérimentale
 
 À comprendre dans cette partie de cours : 
 
@@ -187,8 +188,9 @@ Si vous avez envie de partager vos questions : [lien Wooclap](https://app.woocla
 
 ## Qu’est-ce qu’une émotion ?
 
-*Chacun sait ce qu’est une émotion jusqu’à ce qu’on lui demande d’en donner une définition. 
-À ce moment-là, il semble que plus personne ne le sache.*
+
+*Chacun sait ce qu’est une émotion jusqu’à ce qu’on lui demande d’en donner une définition.* 
+*À ce moment-là, il semble que plus personne ne le sache.*
 
 Fehr & Russell (1984)
 
@@ -198,18 +200,19 @@ Années 80, grand essor des questions scientifiques sur les émotions
 
 ## Émotions : définitions {.scrollable}
 
-- Multiples définitions mais points communs
+Multiples définitions mais points communs
 
 ‒	États internes observables ou non (comportements, expressions verbales ou faciales)
 
 ‒	S’accompagnent de réactions physiologiques (changement de fréquence cardiaque, transpiration, contraction des muscles …)
 
 ‒	Réponses psychologiques et/ou physiologiques d’intensité, de durée, de complexité variables à une situation 
+
 ‒	Plusieurs types d’émotions
 
 ## Émotions : définition
 
-	« Patrons biologiquement fondés de perception, d’expérience, de physiologie, d’action et de communication, caractérisés par leur aspect épisodique, de courte durée, et qui se produisent en réponse à des défis et opportunités physiques et sociaux spécifiques » 
+«Patrons biologiquement fondés de perception, d’expérience, de physiologie, d’action et de communication, caractérisés par leur aspect épisodique, de courte durée, et qui se produisent en réponse à des défis et opportunités physiques et sociaux spécifiques.» 
 	
 	(Keltner & Gross, 1999, p.468)
 	
@@ -238,6 +241,8 @@ Stress: pas sentiment, ni émotion, mais réaction physiologique et psychique à
 ::: notes
 Synchronisation : l’émotion est synchronisée avec un événement (ou le fait d’y penser) 
 Appraisal : évaluation cognitive
+
+FIN S1
 :::
 
 ## Caractéristiques d’une émotion {.scrollable}
