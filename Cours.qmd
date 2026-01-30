@@ -295,7 +295,7 @@ Nature multi-dimensionnelle
 ## Le modèle modal de l’émotion
 
 ![](images/modelemodal.png)
-*Barrett et al., 2007; Gross, 1998)*
+*Barrett et al., 2007; Gross, 1998*
 
 ::: notes
 Une émotion survient lorsque nous nous trouvons dans une situation ou face à un stimulus, après évaluation (du caractère dangereux ou pas, ou du caractère agréable/désagréable).
@@ -395,12 +395,13 @@ Faire une heure sur émotion et cognition dans le développement atypique ?
     - Face à un obstacle
     - Quand un besoin n’est pas satisfait
     
-‒	Tristesse
+
+- Tristesse
 
     - Situation de manque, d’absence
     - Quand nous n’obtenons pas ce que nous voulons, obtenons ce que nous ne voulons pas
     
-‒	Joie
+- Joie
 
     - Réussite
     - Satisfaction d’un ou plusieurs de nos besoins (précis)
@@ -412,6 +413,10 @@ Faire une heure sur émotion et cognition dans le développement atypique ?
 ## Changements physiologiques (Levenson et al., 1990) {.scrollable}
 
 ![](images/physioLevenson.png)
+
+::: notes
+fin S2
+:::
 
 
 ## Recherche : que cherche-t-on à élucider ? 
