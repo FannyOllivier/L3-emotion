@@ -249,18 +249,48 @@ FIN S1
 
 Quand l’émotion survient-elle ?
 
-- Théorie de la ré-évaluation cognitive (Laarus, 1991; Scherer, Schorr & Johnstone, 2001)
+- Nos émotions dépendent de la situation (évaluation cognitive), mais pas uniquement
 
-- Quand un individu prête attention et évalue une situation comme très pertinente pour un but qu’il poursuit
-Sens d’une situation ou d’un stimulus -> déclenche une émotion
+- Elles dépendent aussi de notre interprétation de la situation => **Théorie de la ré-évaluation cognitive** (Laarus, 1991; Scherer, Schorr & Johnstone, 2001)
+
+- notre évaluation mentale de la situation :
+
+    - sens de la situation pour nous (ce qu'elle signifie)
+    - aide ou menace pour nos objectifs
+    - est-ce qu'on se sent capable d'y faire face ? 
+
+    
+  provoque les émotions 
+  
+- La ré-évaluation cognitive permet de changer volontairement son interprétation de la situation pour modifier l'émotion ressentie
+
+
+::: notes
+Appraisal theory
+
+Exemples
+- Un étudiant reçoit une mauvaise note.
+
+Évaluation initiale : « Je suis nul, je vais échouer » → tristesse, découragement.
+
+Ré-évaluation : « C’est un indicateur de ce que je dois travailler » → motivation, espoir.
+
+- Une personne parle en public et voit quelqu’un froncer les sourcils.
+
+Évaluation initiale : « Il me juge négativement » → anxiété.
+
+Ré-évaluation : « Il est peut-être juste concentré ou fatigué » → diminution du stress
+
+Ré-évaluation cognitive : mécanisme de régulation émotionnelle, on en reparlera quand on traitera ce point
+:::
+
+## Caractéristiques d’une émotion 
 
 Nature multi-dimensionnelle
 
 - Émotion : multitude de réactions, plus ou moins synchronisées ; réactions physiologiques, subjectives (vécu, ressenti), comportementales et sociales
 
-::: notes
-Appraisal theory
-:::
+
 
 ## Le modèle modal de l’émotion
 
@@ -268,7 +298,41 @@ Appraisal theory
 *Barrett et al., 2007; Gross, 1998)*
 
 ::: notes
-Une émotion survient lorsque nous nous trouvons dans une situation ou face à un stimulus, après évaluation (du caractère dangereux ou pas, ou du caractère agréable/désagréable). L’émotion peut s’exprimer à différents niveaux (depuis les niveaux physiologiques comme l’accélération du rythme cardiaque) jusqu’aux niveaux psychologiques et comportementaux (comme un ressenti de peur et une fuite). 
+Une émotion survient lorsque nous nous trouvons dans une situation ou face à un stimulus, après évaluation (du caractère dangereux ou pas, ou du caractère agréable/désagréable).
+On porte plus ou moins attention à certains aspects de la situation. On donne un sens à ce que l'on perçoit (évaluation). Puis réponse émotionnelle. L’émotion peut s’exprimer à différents niveaux (depuis les niveaux physiologiques comme l’accélération du rythme cardiaque) jusqu’aux niveaux psychologiques et comportementaux (comme un ressenti de peur et une fuite). 
+:::
+
+## Le modèle modal de l’émotion
+
+- Processus dynamique en plusieurs étapes (!= d'un réflexe automatique)
+- montre où et comment peut intervenir la régulation émotionnelle
+
+    - changer la situation
+    - changer l'attention que l'on y prête
+    - réévaluer la situation
+    - après le déclenchement de l'émotion : contrôler la respiration, l'expression
+
+::: notes
+ex
+Une personne doit passer un entretien d’embauche/master.
+
+Situation : entretien imminent.
+
+Attention : elle se concentre sur ses erreurs passées.
+
+Évaluation : « Je vais rater. »
+
+Réponse : anxiété, mains moites.
+
+Régulation possible :
+
+Avant : se focaliser sur ses réussites (attention).
+
+Pendant : reformuler mentalement (« c’est une opportunité »).
+
+Après : respiration lente pour réduire la tension.
+
+ou ex d'un conducteur qui se fait couper la route
 :::
 
 ## Taxonomie des émotions
@@ -300,6 +364,7 @@ Scherer (1984) : approche intégrée. Ce n’est pas parce que des mots différe
 ‒	L’intensité : de faible à forte
 
 ![](images/valenceInt.png)
+Valence
 
 ::: notes
 valence : continuum plaisant/déplaisant
@@ -311,6 +376,166 @@ valence : continuum plaisant/déplaisant
 
 [lien Wooclap](https://app.wooclap.com/events/YNCKQT/live-session)
 
+## Émotions de base : quels déclencheurs ? Quels signes ?
+
+‒	Différences inter-individuelles mais les expressions psychologiques, comportementales et physiologiques des émotions présentent un profil général dans le développement typique
+
+::: notes
+Profil général mais différences. Par ex :
+ - TSA : réactions physiologiques (électrodermales/ pupillaires) préservées ou amoindries selon les études, cardiaques similaires ((2) Lydon, S. et al. (2016) Dev. Neurorehabilitation 19, 335–355 ; (3) Aguillon-Hernandez, N. et al. (2020) J. Child Psychol. Psychiatry 61, 768–778).
+Expressions comportementales des émotions différentes :  Briot, K., Pizano, A., Bouvard, M., & Amestoy, A. (2021). New technologies as promising tools for assessing facial emotion expressions impairments in ASD: A systematic review. Frontiers in Psychiatry, 12, 634756.
+Faire une heure sur émotion et cognition dans le développement atypique ? 
+
+:::
+
+## Déclencheurs {.scrollable}
+
+- Colère 
+
+    - Face à un obstacle
+    - Quand un besoin n’est pas satisfait
+    
+‒	Tristesse
+
+    - Situation de manque, d’absence
+    - Quand nous n’obtenons pas ce que nous voulons, obtenons ce que nous ne voulons pas
+    
+‒	Joie
+
+    - Réussite
+    - Satisfaction d’un ou plusieurs de nos besoins (précis)
+
+## Expressions faciales {.scrollable}
+
+![](images/expressions.png)
+
+## Changements physiologiques (Levenson et al., 1990) {.scrollable}
+
+![](images/physioLevenson.png)
+
+
+## Recherche : que cherche-t-on à élucider ? 
+
+Questions déclinables pour chaque fonction cognitive
+
+- Les émotions affectent-elles nos performances ? 
+- Si oui, dans quelles conditions ?
+- Dans quel sens et dans quelles proportions ?
+- Par quels mécanismes ?
+
+
+# Comment étudier le lien entre émotions et cognition ?
+
+
+## Principes méthodologiques généraux de l'étude du lien émotion/cognition {.scrollable}
+
+- Réalisation d’une tâche cognitive connue
+
+    - Ex : tâche de raisonnement, de rappel
+
+- Dans une condition :
+
+
+    - Émotionnelle/neutre
+    - En inter ou en intra (si possible) 
+    
+- Comparaison  des performances en fonction de l’état émotionnel du participant
+
+    - Déterminer si les mécanismes connus pour la tâche cognitive sont mis en œuvre différemment en condition émotionnelle et en condition neutre
+
+::: notes
+Mécanismes connus par les chercheurs pour pouvoir comprendre le changement potentiellement observé lorsqu’on introduit l’émotion
+
+Exemple d’étude : est-ce que les émotions influencent une tâche de recherche visuelle Fox et al. (2007)
+:::
+
+
+## Exemple  - Émotion et recherche visuelle {.scrollable}
+
+Fox et al. (2007)
+
+- Photos du IAPS : pistolets, serpents, fleurs et champignons
+
+    *images réelles dans l'expérimentation, les figures du diapo sont des illustrations*
+    
+- Consigne : Trouver si toutes les images sont les mêmes ou non dans chaque set 
+
+![](images/imagesfox.png)
+Que mesure-t-on ? Pourquoi ? [lien Wooclap](https://app.wooclap.com/events/YNCKQT/live-session)
+
+::: notes
+International Affective Picture System/ image proposée pour mieux comprendre mais la vraie expé s’est faite à partir de photos et non de dessins, ce qui change au niveau méthodo. Images IAPS non disponibles car choix de garder la primeur des images pour les expés des créateurs. Autres bases (OASIS par ex) sont ouvertes.
+50% des sets contiennent les mêmes images, 50% des sets contiennent un intrus
+Pas de différence significative sur les erreurs, mais différences sur les temps de réaction
+:::
+
+
+##  Exemple  - Émotion et recherche visuelle (Fox et al., 2007)
+
+Résultats
+
+![](images/resultfox.png)
+
+::: notes
+International Affective Picture System/ image proposée pour mieux comprendre mais la vraie expé s’est faite à partir de photos et non de dessins, ce qui change au niveau méthodo. Images IAPS non disponibles car choix de garder la primeur des images pour les expés des créateurs. Autres bases (OASIS par ex) sont ouvertes.
+50% des sets contiennent les mêmes images, 50% des sets contiennent un intrus
+Pas de différence significative sur les erreurs, mais différences sur les temps de réaction
+:::
+
+
+## Méthodologies pour l'étude des émotions
+
+Manipulations expérimentales => induction
+
+Occurrences naturelles
+
+
+## Manipulations expérimentales (induction)
+
+- Stimuli émotionnels (images ou mots à valence émotionnelle; revue Kenealy, 1986 pour des mots; images IAPS, Lang, Bradley, & Cuthbert, 2005 ; NAPS ; OASIS)
+
+::: notes
+Remarque : une critique adressée à la banque d’image IAPS c’est qu’elle a été utilisée et testée quasi uniquement dans le minority world (aussi appelé WEIRD pour White Educated Industrialized Rich Democratic)
+D’autres bases (en open access) ont été créées depuis : https://imotions.com/blog/learning/research-fundamentals/iaps-international-affective-picture-system/
+Nencki Affective Picture System (NAPS)This database “consists of 1,356 realistic, high-quality photographs that are divided into five categories (people, faces, animals, objects, and landscapes)” and has been rated for both valence and arousal, as IAPS was, but with a measurement of “approach-avoidance” rather than dominance / control. The database also provides measurements of physical properties of the photographs – the luminance, contrast, and entropy, which can be important when these need to be controlled for (such as with pupillometry).Subsets of the database have also been formed to provide data that has been more intensively categorized, such as for discrete emotional categories, erotic content, and fear inducing material.
+Open Affective Standardized Image Set (OASIS)OASIS is an “open-access online stimulus set containing 900 color images depicting a broad spectrum of themes, including humans, animals, objects, and scenes, along with normative ratings on two affective dimensions – valence… and arousal”. The database is also “not subject to the copyright restrictions that apply to the International Affective Picture System” which opens up the possibilities for use.
+Geneva affective picture database (GAPED)GAPED is a database consisting of 730 photos, “rated according to valence, arousal, and the congruence of the represented scene with internal (moral) and external (legal) norms”. The negatively-valenced photos include “spiders, snakes, and scenes that induce emotions related to the violation of moral and legal norms”, while the positively-valenced photos include “mainly human and animal babies as well as nature sceneries”. Neutral pictures primarily show inanimate objects.
+Emotional Picture Set (EmoPicS)As research into emotions often requires a large number of stimulus presentations, EmoPicS has been built to add to the material available. The database “comprises a total of 378 standardized color photographs with different semantic content (diverse social situations, animals and plants) as well as different emotional intensity and valence”. The database is only available for academic research or clinical work.
+EmoMadridEmoMadrid is a database of over 800 photos with different affectiva content. The data includes information about the “affective valence, arousal, spatial frequency, luminosity and physical complexity”.
+Military Affective Picture System (MAPS)MAPS is an image database that “provides pictures normed for both civilian and military populations to be used in research on the processing of emotionally-relevant scenes common among military populations”. It consists of “240 images depicting scenes common among military populations”. The data was scored in the same way as IAPS, with measures of valence, arousal, and dominance.
+Development and Validation of the Image Stimuli for Emotion Elicitation (ISEE)The ISEE was built as a “set of reliable pictorial stimuli, which elicited target emotions stably over time”. The ISEE, in comparison to IAPS, GAPED, and others, has been tested for stability in emotional elicitation over repeated presentations. The database consists of 356 photos, selected from an initial pool of over 10,000.
+Open Library of Affective Foods (OLAF)OLAF as a database of images “has the specific purpose of studying emotions toward food” and “depicts high-calorie sweet and savory foods and low-calorie fruits and vegetables, portraying foods within natural scenes matching the IAPS features”. The images are available to be downloaded directly from the website.
+DIsgust-RelaTed-Images (DIRTI)Built specifically for eliciting feelings of disgust, the DIRTI database “consists of 240 disgust-inducing pictures divided into six categories (food, animals, body products, injuries/infections, death, and hygiene)” as well as 60 neutral pictures. The photos were rated on scales measuring disgust, fear, valence, and arousal and can be downloaded directly through the link above
+:::
+
+## Manipulations expérimentales (induction) - bases d'images
+
+Exemple : OASIS
+
+[lien OASIS](https://www.benedekkurdi.com/%23oasis) 
+
+- 900 images
+- échelle en deux dimensions : valence/ intensité
+
+## Manipulations expérimentales (induction) - OASIS {.scrollable}
+
+- Kurdi, B., Lozano, S., & Banaji, M. R. (2017). Introducing the Open Affective Standardized Image Set (OASIS). Behavior Research Methods, 49(2), 457–470. https://doi.org/10.3758/s13428-016-0715-3
+
+- Pas d’effet de genre (une fois enlevées les images -18 explicites)
+
+- Effets négligeables de 
+
+    - l’âge, 
+    - des revenus,
+    - l’orientation politique (sauf -18 et violence)
+
+::: notes
+Corrélations entre valence homme/femme et intensité homme/femme très fortes. Si on regarde le tableau des valences et intensité moyennes, on voit des différences entre hommes et femmes, mais la corrélation est très forte (à plus de .92). 
+Fin S2 ?
+
+https://www.benedekkurdi.com/#!portfolio/project-4.html
+https://db.tt/yYTZYCga / 
+:::
 
 
 
