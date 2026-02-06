@@ -542,5 +542,173 @@ https://www.benedekkurdi.com/#!portfolio/project-4.html
 https://db.tt/yYTZYCga / 
 :::
 
+## Méthodologies pour l’étude des émotions - induction 
+
+1/ Manipulations expérimentales (induction)
+
+‒	Films (revue Gross & Levenson, 1995)
+
+    - Ex: « Psychose », « le cercle des poètes disparus » 
+
+![](images/psychose.png)
+![](images/psychose2.png)
+
+
+## Méthodologies pour l’étude des émotions - induction
+
+1/ Manipulations expérimentales (induction)
+
+‒	Odeurs (e.g., banane/œuf pourri dans Billot et al., 2017)
+
+‒	Musiques (allegro: joyeux; adagio: tristes; revue Västfjäll, 2002)
+
+‒	Réactivation de souvenirs émotionnels (e.g. Lerner & Keltner, 2001)
+
+‒	Induction de stress ou feedbacks d’échecs (e.g., the Trier Social Stress Test; Kirsch- baum, Pirke, & Hellhammer, 1993).
+
+::: notes
+Banane/œuf pourri : l’une de ces odeurs est plaisante
+
+Ex de réactivation de souvenirs émotionnels : essayez de vous souvenir du premier jour où vous êtes allés à l’école, de retrouver un événement heureux, un événement triste dans votre mémoire
+
+Trier Social Stress Test : pour induire du stress. 1/ préparer une présentation pour un entretien d’embauche en mettant en avant ses qualités personnelles– durée de préparation : 2 minutes
+2/ Donner cette présentation pendant 5 minutes devant deux évaluateurs en blouse blanche. Le participant est filmé. 
+3/ pendant 5 minutes, compter à rebours. Ex: compter par pas de 17 en partant de 2043.
+
+Allegro concerto en mi majeur Bach
+Adagio Albinoni
+Sometimes it snows in April – Prince
+:::
+
+
+## Méthodologies pour l’étude des émotions - occurrences {.scrollable}
+
+2/ pas de manipulation expérimentale – utilisation des occurrences naturelles
+
+‒	Journal (diary)
+
+‒	Différences inter individuelles (pathologies, phobies, anxiété chronique)
+
+‒	Évaluation par des questionnaires (DES, BMIS, PANAS, CMQ, EPI)
+
+
+    - Utilisés pour évaluer l’état émotionnel du participant arrivant au labo
+
+    - Et/ou pour vérifier l’état émotionnel après induction
+
+
+::: notes
+1/On demande au participant de tenir un journal quotidiennement ou de façon hebdomadaire pendant une certaine période et d’y noter toutes les émotions vécues, tous les événements ou réflexion qui ont déclenché des émotions + caractéristiques des émotions
+2/Le chercheur utilise le journal pour, par exemple, poser des questions au participant et voir s’il se souvient mieux de certains événements en fonction de de leur valence et intensité émotionnelles.
+
+On peut utiliser les différences inter individuelles et la présence de pathologies phobiques ou d’anxiété pour comparer les performances avec des sujets contrôles ou avec la littérature existante.
+:::
+
+## Méthodologies pour l’étude des émotions
+
+Questionnaires d’évaluation émotionnelle 
+
+‒	DES : Differential Emotions Scale ou Echelle Différentielle d’émotions (Izard et al., 1974)
+
+‒	BMIS : Brief Mood Introspection Scale (Mayer & Gaschke, 1988)
+
+‒	PANAS Positive and Negative Affect Schedule – Echelle d’Affectivité Positive et Négative (Watson, Clark & Tellegen, 1988)
+
+‒	CMQ : Current Mood Questionnaire, Questionnaire d’humeur du moment (Feldman, Barrett, & Russell, 1998)
+
+‒	EPI : Emotional Profile Index (1988)
+
+
+## PANAS: Exemples d’items
+
+![](images/panas.png)
+
+
+## Différencier l’émotion liée à la tâche cognitive de l’émotion sans rapport avec la tâche
+
+‒	Différence entre 
+
+
+    - Induction émotionnelle => émotion en dehors de la tâche
+    
+    - Manipulation de la valence émotionnelle des stimuli => émotion produite par la tâche 
+    
+    
+‒	On parle d’émotions **incidentes** versus **intégrales**
+
+::: notes
+On peut penser que l’effet des émotions pourra être différent selon qu’on fait une induction émotionnelle (film, musique, odeur …) ou qu’on manipule la valence émotionnelle des stimuli
+:::
+
+
+## Émotions incidentes 
+
+
+‒	Provoquées/induites par une situation indépendante de la tâche réalisée et des stimuli à traiter 
+
+‒	Source des émotions : exogène à la tâche à accomplir 
+
+‒	Technique d’étude : méthodes d’induction (film, faire remémorer des souvenirs, récits … avant la tâche)
+
+## Émotions intégrales
+
+
+‒	Provoquées/déclenchées par la tâche et/ou les stimuli à traiter pour réaliser la tâche
+
+‒	Source des émotions : endogène à la tâche à accomplir 
+
+‒	Technique d’étude : manipuler le contenu émotionnel des stimuli à traiter (ex: énoncés émotionnels dans une tâche de raisonnement, chronomètre dans une tâche arithmétique)
+
+
+## Exemple en cognition numérique 
+
+Lemaire, P. (2022). Emotions and arithmetic in children. Scientific Reports, 12(1), 20702. https://doi.org/10.1038/s41598-022-24995-9
+
+![](images/lemairearithm.png)
+::: notes
+96 problems, 12 (individual problems) × 2 (versions: a + b, b + a) × 2 (true, false)× 2 (negative, neutral emotions)
+:::
+
+## Lemaire (2022) - Résultats
+
+‒	Performances + faibles dans la condition émotion négative pour tous les groupes d’âge (RT + long)
+
+‒	Effet délétère + important des émotions négatives sur les problèmes + difficiles (TRUE vs. FALSE)
+
+‒	Baisse de l’effet des émotions avec l’âge de l’enfant
+
+‒	Effet maximum de l’émotion sur les problèmes posés juste après le stimulus émotionnel
+
+::: notes
+More specifically, 8–15 year-old participants (N = 207) solved arithmetic problems (8 + 4 = 13. True? False?) that were displayed superimposed on emotionally negative or neutral pictures. The main results showed (a) poorer performance in emotionally negative conditions in all age groups, (b) larger deleterious effects of negative emotions on harder problems, (c) decreased effects of emotions as children grow older, and (d) sequential carry-over effects of emotions in all age groups such that larger decreased performance under emotion condition relative to neutral condition occurred on current trials immediately preceded by emotional trials. These findings have important implications for furthering our understanding of how emotions influence arithmetic performance in children and how this influence changes during childhood
+:::
+
+
+## Lemaire (2022)
+
+‒	Effet de médiation 
+![](images/mediationlemaire.png)
+
+::: notes
+Médiation mais âge est aussi un prédicteur unique de l’effet de l’émotion.
+We tested whether arithmetic fluency mediated age-related changes in how emotions influence arithmetic performance. A simple mediation analysis on emotion effects (differences in latencies between emotion and neutral conditions) was carried out. Using the Medmod 1.1.0 module for JAMOVI (10,000 boostrapped resamples; Model 449), we regressed emotion effects on age (coded in years) and entered arithmetic fluency as the mediator. As can be seen in Fig. 3, arithmetic fluency increased with increasing age (a = − 8.14), and the higher arithmetic fluency the smaller the effects of emotions (b = − 13.78). The confidence interval of the indirect effect through arithmetic fluency did not include zero (ab = − 112.30; CI 95% (− 169.00 to − 66.60). Arithmetic fluency was thus a significant mediator that accounted for 61.8% of the total age-related changes in effects of emotion on children’s arithmetic performance. Note however that age had a unique influence on emotional effects (cʹ = − 69.49, p = 0.010).
+:::
+
+
+## Lemaire (2022)
+
+Conclusions 
+
+::: notes
+Médiation mais âge est aussi un prédicteur unique de l’effet de l’émotion.
+We tested whether arithmetic fluency mediated age-related changes in how emotions influence arithmetic performance. A simple mediation analysis on emotion effects (differences in latencies between emotion and neutral conditions) was carried out. Using the Medmod 1.1.0 module for JAMOVI (10,000 boostrapped resamples; Model 449), we regressed emotion effects on age (coded in years) and entered arithmetic fluency as the mediator. As can be seen in Fig. 3, arithmetic fluency increased with increasing age (a = − 8.14), and the higher arithmetic fluency the smaller the effects of emotions (b = − 13.78). The confidence interval of the indirect effect through arithmetic fluency did not include zero (ab = − 112.30; CI 95% (− 169.00 to − 66.60). Arithmetic fluency was thus a significant mediator that accounted for 61.8% of the total age-related changes in effects of emotion on children’s arithmetic performance. Note however that age had a unique influence on emotional effects (cʹ = − 69.49, p = 0.010).
+:::
+
+## Fin de la première partie du cours
+
+![](images/cclpart1.png) 
+
+
+
 
 
