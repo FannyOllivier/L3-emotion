@@ -174,7 +174,7 @@ prendre le temps d'y réfléchir, de se poser des questions, qui serviront de ba
 
 Si vous avez envie de partager vos questions : [lien Wooclap](https://app.wooclap.com/events/YNCKQT/live-session)
 
-# Émotions : définition et méthodologie expérimentale
+# Partie 1 - Émotions : définition et méthodologie expérimentale
 
 À comprendre dans cette partie de cours : 
 
@@ -542,11 +542,11 @@ https://www.benedekkurdi.com/#!portfolio/project-4.html
 https://db.tt/yYTZYCga / 
 :::
 
-## Méthodologies pour l’étude des émotions - induction 
+## Méthodologies pour l’étude des émotions - induction {.scrollable}
 
 1/ Manipulations expérimentales (induction)
 
-‒	Films (revue Gross & Levenson, 1995)
+- Films (revue Gross & Levenson, 1995)
 
     - Ex: « Psychose », « le cercle des poètes disparus » 
 
@@ -558,13 +558,10 @@ https://db.tt/yYTZYCga /
 
 1/ Manipulations expérimentales (induction)
 
-‒	Odeurs (e.g., banane/œuf pourri dans Billot et al., 2017)
-
-‒	Musiques (allegro: joyeux; adagio: tristes; revue Västfjäll, 2002)
-
-‒	Réactivation de souvenirs émotionnels (e.g. Lerner & Keltner, 2001)
-
-‒	Induction de stress ou feedbacks d’échecs (e.g., the Trier Social Stress Test; Kirsch- baum, Pirke, & Hellhammer, 1993).
+- Odeurs (e.g., banane/œuf pourri dans Billot et al., 2017)
+- Musiques (allegro: joyeux; adagio: tristes; revue Västfjäll, 2002)
+- Réactivation de souvenirs émotionnels (e.g. Lerner & Keltner, 2001)
+- Induction de stress ou feedbacks d’échecs (e.g., the Trier Social Stress Test; Kirsch- baum, Pirke, & Hellhammer, 1993).
 
 ::: notes
 Banane/œuf pourri : l’une de ces odeurs est plaisante
@@ -585,11 +582,9 @@ Sometimes it snows in April – Prince
 
 2/ pas de manipulation expérimentale – utilisation des occurrences naturelles
 
-‒	Journal (diary)
-
-‒	Différences inter individuelles (pathologies, phobies, anxiété chronique)
-
-‒	Évaluation par des questionnaires (DES, BMIS, PANAS, CMQ, EPI)
+- Journal (diary)
+- Différences inter individuelles (pathologies, phobies, anxiété chronique)
+- Évaluation par des questionnaires (DES, BMIS, PANAS, CMQ, EPI)
 
 
     - Utilisés pour évaluer l’état émotionnel du participant arrivant au labo
@@ -624,17 +619,15 @@ Questionnaires d’évaluation émotionnelle
 ![](images/panas.png)
 
 
+
 ## Différencier l’émotion liée à la tâche cognitive de l’émotion sans rapport avec la tâche
 
-‒	Différence entre 
-
+- Différence entre 
 
     - Induction émotionnelle => émotion en dehors de la tâche
-    
     - Manipulation de la valence émotionnelle des stimuli => émotion produite par la tâche 
     
-    
-‒	On parle d’émotions **incidentes** versus **intégrales**
+- On parle d’émotions **incidentes** versus **intégrales**
 
 ::: notes
 On peut penser que l’effet des émotions pourra être différent selon qu’on fait une induction émotionnelle (film, musique, odeur …) ou qu’on manipule la valence émotionnelle des stimuli
@@ -643,21 +636,15 @@ On peut penser que l’effet des émotions pourra être différent selon qu’on
 
 ## Émotions incidentes 
 
-
-‒	Provoquées/induites par une situation indépendante de la tâche réalisée et des stimuli à traiter 
-
-‒	Source des émotions : exogène à la tâche à accomplir 
-
-‒	Technique d’étude : méthodes d’induction (film, faire remémorer des souvenirs, récits … avant la tâche)
+- Provoquées/induites par une situation indépendante de la tâche réalisée et des stimuli à traiter 
+- Source des émotions : exogène à la tâche à accomplir
+- Technique d’étude : méthodes d’induction (film, faire remémorer des souvenirs, récits … avant la tâche)
 
 ## Émotions intégrales
 
-
-‒	Provoquées/déclenchées par la tâche et/ou les stimuli à traiter pour réaliser la tâche
-
-‒	Source des émotions : endogène à la tâche à accomplir 
-
-‒	Technique d’étude : manipuler le contenu émotionnel des stimuli à traiter (ex: énoncés émotionnels dans une tâche de raisonnement, chronomètre dans une tâche arithmétique)
+- Provoquées/déclenchées par la tâche et/ou les stimuli à traiter pour réaliser la tâche
+- Source des émotions : endogène à la tâche à accomplir
+- Technique d’étude : manipuler le contenu émotionnel des stimuli à traiter (ex: énoncés émotionnels dans une tâche de raisonnement, chronomètre dans une tâche arithmétique)
 
 
 ## Exemple en cognition numérique 
@@ -665,6 +652,7 @@ On peut penser que l’effet des émotions pourra être différent selon qu’on
 Lemaire, P. (2022). Emotions and arithmetic in children. Scientific Reports, 12(1), 20702. https://doi.org/10.1038/s41598-022-24995-9
 
 ![](images/lemairearithm.png)
+
 ::: notes
 96 problems, 12 (individual problems) × 2 (versions: a + b, b + a) × 2 (true, false)× 2 (negative, neutral emotions)
 :::
@@ -687,7 +675,9 @@ More specifically, 8–15 year-old participants (N = 207) solved arithmetic prob
 ## Lemaire (2022)
 
 ‒	Effet de médiation 
+
 ![](images/mediationlemaire.png)
+
 
 ::: notes
 Médiation mais âge est aussi un prédicteur unique de l’effet de l’émotion.
@@ -699,16 +689,301 @@ We tested whether arithmetic fluency mediated age-related changes in how emotion
 
 Conclusions 
 
+- La fluence arithmétique est un facteur médiateur de la relation entre l'âge et les effets de l'émotion 
+- Mais l'âge reste un prédicteur des effets de l'émotion au-delà de la fluence arithmétique
+
+
 ::: notes
 Médiation mais âge est aussi un prédicteur unique de l’effet de l’émotion.
 We tested whether arithmetic fluency mediated age-related changes in how emotions influence arithmetic performance. A simple mediation analysis on emotion effects (differences in latencies between emotion and neutral conditions) was carried out. Using the Medmod 1.1.0 module for JAMOVI (10,000 boostrapped resamples; Model 449), we regressed emotion effects on age (coded in years) and entered arithmetic fluency as the mediator. As can be seen in Fig. 3, arithmetic fluency increased with increasing age (a = − 8.14), and the higher arithmetic fluency the smaller the effects of emotions (b = − 13.78). The confidence interval of the indirect effect through arithmetic fluency did not include zero (ab = − 112.30; CI 95% (− 169.00 to − 66.60). Arithmetic fluency was thus a significant mediator that accounted for 61.8% of the total age-related changes in effects of emotion on children’s arithmetic performance. Note however that age had a unique influence on emotional effects (cʹ = − 69.49, p = 0.010).
 :::
 
-## Fin de la première partie du cours
+## Pour résumer 
 
 ![](images/cclpart1.png) 
 
+# Partie 2 - Émotion et attention
+
+## Attention 
+
+Attention intervient à toutes les étapes du traitement de l’information
+
+- Sélection d’informations utiles (en fonction du but)
+- Sélection du traitement à appliquer
+- Mise en œuvre du traitement : transformation de l’information
+- Transmettre une réponse
+
+::: notes
+exemples : 
+1/ sélection infos : en classe, si le but est de mémoriser le plus d'éléments possibles, l'attention va servir à se focaliser sur le cours et à ignorer les conversations autour
+En conduite, on se concentre sur les feux et les piétons plutôt que sur les vitrines 
+En résolution de pb de maths, on repère les nombres et la question et on ignore les détails narratifs inutiles
+2/ Sélection traitement : en maths, devant 7+8 on peut choisir différentes stratégies
+3/ mise en oeuvre du traitement : l'attention sert au maintien et à la manipulation de l'information pendant le traitement. Elle soutient la mémoire de travail et les opérations mentales. Ex : 23+19 (garder 23 en mémoire, ne pas oublier la retenue)
+4/ transmission réponse : attention intervient pour produire la réponse et inhiber les réponses inadaptées. Ex : lever la main avant de parler en classe, stroop (dire la couleur de l'encre et non lire le mot)
+:::
+
+## Fonctions de l'attention {.scrollable}
+
+- Différents mécanismes dans l’attention
+- Attention soutenue 
+
+    - Concentration prolongée
+    - Focaliser son attention longtemps sur une information cible
+    - Commence à décliner vers 30 ans
+    
+- Attention sélective
+
+    - Sélectionner un stimulus pertinent pour accomplir une tâche
+    - Focus sur un ou plusieurs aspects importants (stimulus, information, situation)
+    - Commence à décliner vers 40 ans
+    
+::: notes
+Chacune des fonctions intervient dans des contextes différents, est étudiée avec des tâches spécifiques, est influencée par des facteurs communs ou différents et évolue avec l’âge et la psychopathologie de manière différente.
+
+A chaque fois, c’est la capacité à … Sélectionner un stim …
+L’attention soutenue est difficile à étudier parce qu’on ne peut pas utiliser de tâche simple (il faut plusieurs épreuves, avec des demandes cognitives différentes).
+Ex 1 Attention sélective : on la mesure avec des tâches de conflit (exemple la tâche de Stroop), de Go/No go (quand tape une fois du poing dans la main, faire pareil et quand tape 2 fois, ne pas le faire, quand on tape fois taper  fois) et de stop signal (SST, stop signal Task) 
+:::
+
+## Stop Signal Task
+
+{{< video images/stopSignalTask.mp4 >}}
 
 
+## Fonctions de l'attention
+
+- Orientation de l’attention ou Flexibilité attentionnelle (shifting)
+
+    - Diriger rapidement son attention vers une information ou un traitement
+    - Alterner entre deux tâches, deux stratégies, deux représentations mentales (shifting)
+    - Commence à décliner vers 16 ans
+    
+![](images/imagesfox.png)    
+
+::: notes
+A chaque fois, c’est la capacité à … Sélectionner un stim …
+Dans la litt, on la (orientation de l’attention) teste avec des tâches de recherche visuelle (ex de Fox et al. 2007 avec les fleurs et les intrus (serpents/pistolets/champignons)
+Flexibilité attentionnelle (support de la flexibilité mentale) testée avec tâches de détection de cible indicée par exemple.
+:::
+
+## Tâche de détection de cible indicée
+
+![](images/cibleIndicee.png)
+
+::: notes
+Principe: 2 variantes (simple ou double)
+Tâche à Indiçage unique: 1/vue d’un signal, 2/ puis très brièvement un indice, 3/ une lettre cible à identifier (ou sur laquelle formuler un jugement type consonne ou voyelle)
+La lettre apparaît, soit du même côté que l’indice (indiçage spatial valide), soit de l’autre côté (indiçage spatial invalide). Le temps pris pour identifier (ou juger) la cible présentée du même côté que l’indice renseigne sur le temps d’engagement attentionnel. Si la cible apparaît de l’autre côté -> temps de désengagement attentionnel.
+Pour le double indiçage, le participant voit deux indices et le chercheur détermine quel indice entraîne le plus court temps de jugement ou d’identification de la cible.
+:::
+
+## Fonctions de l'attention
+
+- Attention partagée (ou divisée)
+
+    - Diviser ses ressources attentionnelles entre plusieurs tâches, informations ou dimensions d’un stimulus
+    - Commence à décliner vers 20 ans
+
+- Attention préparatoire
+
+    - Permettre la préparation du système cognitif à traiter un stimulus
+    - Commence à décliner vers 50 ans
+    
+::: notes
+Attention divisée testée par la tâche du running span par exemple. Le participant entend des séries de chiffres sans connaître leur longueur et doit rappeler les 6 derniers. 
+Ex : 7 – 2 – 3- 8-1- 4 – 7-9-3-6 - 8
+:::
+
+## Émotions et attention en recherche
+
+- Focus sur attention sélective, orientation de l’attention et attention divisée 
+
+- Mais il existe des travaux pour d’autres fonctions attentionnelles
+
+- Méthodologie 
+
+    - Réaliser des tâches connues mobilisant l’attention (VD)
+    - Dans des contextes émotionnels variables (VI)
+    
+::: notes
+On fait varier soit la nature des stimuli (émotionnels ou neutres), avant ou pendant la tâche (incidentes vs intégrales), ou plus rarement on utilise l’état émotionnel du patient (plus en psychopathologie) EX: rôle de l’anxiété sur l’attention chez des patients présentant un trouble de l’anxiété généralisé.
+:::
+
+## Émotion et attention : objectifs
+
+- Voir comment les contextes émotionnels facilitent ou perturbent la réalisation de la tâche
+- Déterminer si le mécanisme connu est modifié 
+- Comprendre comment les émotions impactent les mécanismes attentionnels
 
 
+## 
+
+![](images/attentionSchema1.png)
+
+::: notes
+Pour résumer, on va s’intéresser à ces trois fonctions de l’attention et à leur lien avec les émotions.
+:::
+
+## Questions de recherche
+
+- Les émotions affectent-elles nos capacités attentionnelles?
+- L’effet des émotions est-il le même pour toutes les fonctions de l’attention?
+- L’effet des émotions sur l’attention évolue-t-il avec l’âge (mais aussi avec la pathologie et selon les caractéristiques individuelles)?
+- Dans quelles conditions et par quels mécanismes les émotions affectent nos capacités attentionnelles?
+
+
+# Émotion et attention sélective 
+
+Les émotions ont-elles un effet sur nos capacités à sélectionner les éléments pertinents pour réaliser une tâche ?
+
+## Stroop émotionnel
+
+![](images/stroopEmo.png)
+
+
+::: notes
+Figure X. (données d’après McKenna & Sharna, 2004)
+
+Mots neutres utilisés par McKenna & Sharma (2004): SAND, CLAY, CLOUD, SLOPE, FIELD, BANK, DITCH (fossé), PLAIN, FOREST, MARBLE, DIRT, STONE, GLASS, VALLEY, TUNNEL, HILL, TREE, OCEAN, FLOWER, LEAVES, ROAD, BUSH (buisson), FAULT, MEADOW (prairie), GRAVEL 
+
+Mots émotionnels utilisés par McKenna & Sharma (2004): FAIL, FEAR, CRASH, GRIEF, DEATH, PAIN, ABUSE, ANGRY, MURDER, CANCER, HATE, SHOCK, ENEMY, AFRAID, MISERY, DOOM, KILL, GUILT, TRAGIC, THREAT, FIRE, RAGE, PANIC, SCREAM, SORROW 
+
+Les participants voyaient des mots neutres (sable, nuage, champs) ou émotionnels (peur, panique, chagrin) présenté avec une encre de couleur bleue (B), jaune (J), rouge (R) ou verte (V). Ils devaient dire la couleur de l’encre sans prêter attention aux mots. La moitié des participants appuyaient sur une touche du clavier à droite pour dire si l’encre était de couleur rouge ou verte et à gauche si l’encre était bleue ou jaune (l’autre moitié faisait l’inverse). 
+:::
+
+## Résultats
+
+*Dresler et al. (2009)*
+
+
+Effets stroop émotionnels
+
+![](images/stroopEmoResult.png)
+
+::: notes
+Effets stroop émotionnels : il faut + de temps pour donner la couleur de l’encre d’un mot quand ce mot est émotionnel (+ ou -)
+Cela peut s’interpréter comme le résultat d’une interférence créée par l’activité automatique de lecture de mots sur l’activité de dénomination de la couleur de l’encre. 
+Les mots émotionnels
+:::
+
+## Résultats
+
+- Effets stroop émotionnels plus forts en condition mixte (McKenna & Sharma, 2004)
+
+    - Mots mélangés (neutre/émotion +/ émotion -)
+    
+![](images/stroopEmoResult2.png)
+    
+::: notes
+L’effet stroop s’observe plus fort dans les conditions mixtes (voire uniquement dans les conditions mixtes, cf McKenna & Sharma). 
+Fin S3
+:::
+
+## Émotion et attention sélective : conclusion
+
+- Beaucoup d’autres études, des réplications
+- Les émotions perturbent les mécanismes de l’attention sélective
+
+    - Mécanismes permettant d’inhiber les informations non pertinentes 
+
+- L’activation des émotions et leur traitement occupe de la ressource attentionnelle
+- La tâche d’attention sélective est ralentie
+
+::: notes
+On vient de voir que l’on met plus de temps à réaliser la tâche de stroop quand on introduit des émotions dans les stimuli. Beaucoup d’autres études …
+Ce que l’on peut conclure des études sur émotion et attention sélective, c’est …
+Mécanismes permettant d’inhiber les informations non pertinentes : ce que l’on a vu dans la tâche de stroop. Mais cela est aussi valable pour les mécanismes qui permettent d’interrompre une réponse déjà déclenchée.
+:::
+
+# Émotion et orientation de l’attention/shifting
+
+Les émotions ont-elles un effet sur nos capacités à diriger notre attention sur une information cible dans notre environnement ou sur une dimension importante d’un stimulus à traiter ?
+
+::: notes
+Rappel : on avait parlé de l’étude de Fox et al., 2007 de recherche visuelle d’intrus. Ce type d’études permettait de répondre à la première question. Oui, on dirige notre attention plus rapidement vers un stimulus quand il a une dimension émotionnelle (c’était le cas pour le serpent et le pistolet, c’est aussi le cas pour les visages menaçants parmi les visages neutres), et encore plus quand la valence des informations émotionnelles est négative.
+je vais vous présenter une autre expérience avec des visages cette fois.
+:::
+
+## Variante avec des visages (Mathews et al. (2007) 
+
+![](images/visages.png)
+
+::: notes
+Photographies de 4 hommes et 4 femmes (Ekman & Firesen, 1976)
+Uniquement la partie centrale du visage visible (cheveux et arrière-plan effacés)
+Expression neutre/apeurée
+Regard central/vers la gauche/vers la droite
+Les participants doivent appuyer sur le bouton correspondant à la lettre, T ou L (boutons placés verticalement pour minimiser l’interférence due à la position des cibles (droite ou gauche)).
+On fait passer le test à des participants anxieux et non anxieux.
+:::
+
+## Résultats : temps de latence regards dirigés vers le centre
+
+- Pour les regards vers le **centre**, pas de différence entre les groupes (anxieux vs. non-anxieux), 
+- Interaction Groupe x Expression émotionnelle : *F*(1, 42)= 2.59, *p* <.12
+
+![](images/latenceVisages.png)
+
+::: notes
+Temps de latence des réponses (SOA : Stimulus onset asynchrony = temps entre l’apparition du stim et celle du suivant, SOA réglé sur deux valeurs, effet du SOA mais pas d’interaction). Plus le participant répond vite, plus le temps de latence est bas. Les meilleurs scores sont donc les scores les plus faibles, les plus bas sur la courbe.
+:::
+
+## Résultats : temps de latence regards dirigés vers la gauche/droite {.scrollable}
+
+Pour les regards dirigés à droite ou à gauche : 
+
+
+![](images/latenceVisages2.png)
+
+
+##
+
+- Effet principal de la congruence
+- Interaction Congruence x Expression Emotionnelle x Groupe
+- Congruent : le groupe «anxieux» réagit plus vite quand le visage est menaçant que le groupe «non anxieux», *t*(42)=1.74, *p*<.05
+- n.s. pour le reste
+
+
+::: notes
+Regard incongruent : le regard va vers la gauche et la cible est à droite, ou l’inverse. Congruent : cible et regard dans la même direction.
+Effet principal de la congruence : tous les participants sont plus rapides quand c’est congruent. Quand la cible apparaît dans la direction du regard de la photo, le participant la repère plus vite.
+On voit qu’il y a une interaction. Les participants anxieux n’ont pas les mêmes résultats que les participants non anxieux.
+:::
+
+##
+
+![](images/latenceVisages2.png)
+
+
+## Discussion {.scrollable}
+
+- Effet de la congruence => la direction du regard d’une autre personne a un effet sur l’attention de l’observateur
+
+    - Suit la même direction
+    - Facilite la détection de la cible
+    
+- Interaction Congruence x Expression émotionnelle x Groupe
+
+    - Hypothèse : regard apeuré -> danger, alors peur+congruence -> vitesse max de détection
+
+    - Pas d’augmentation de la vitesse chez les sujets non anxieux
+    - Mais augmentation significative chez les sujets anxieux
+    - Variabilité interindividuelle dans l’orientation de l’attention 
+    - != avec l’hypothèse d’une attention visuelle automatique
+
+::: notes
+Un regard apeuré signalant un danger, la condition peur +congruence devrait être associée à la détection la plus rapide de la cible.
+En contradiction avec l’hypothèse d’un fonctionnement automatisé de l’attention visuelle puisqu’on voit que le caractère émotionnel des stimuli et celui des participants entrent en jeu dans la détection de cibles.
+:::
+
+## Émotion et orientation de l’attention : conclusion
+
+- Nos émotions influencent l’orientation de l’attention
+- Recherche visuelle : orientation de l’attention plus rapide vers les stimuli à valence émotionnelle /neutres
+- Stimuli à valence émotionnelle – semblent être traités plus rapidement que +
+- Les informations à valence émotionnelle – sont d’autant plus vite traitées que les participants ont des traits émotionnels –  
+
+::: notes
+fin de séance ?
+:::
