@@ -649,7 +649,7 @@ On peut penser que l’effet des émotions pourra être différent selon qu’on
 
 ## Exemple en cognition numérique 
 
-Lemaire, P. (2022). Emotions and arithmetic in children. Scientific Reports, 12(1), 20702. https://doi.org/10.1038/s41598-022-24995-9
+Lemaire, P. (2022). Emotions and arithmetic in children. *Scientific Reports, 12*(1), 20702. https://doi.org/10.1038/s41598-022-24995-9
 
 ![](images/lemairearithm.png)
 
