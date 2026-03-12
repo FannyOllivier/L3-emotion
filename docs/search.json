@@ -424,48 +424,167 @@
     "href": "Cours.html#émotion-et-attention-sélective-conclusion",
     "title": "Émotion et Cognition",
     "section": "Émotion et attention sélective : conclusion",
-    "text": "Émotion et attention sélective : conclusion\n\nBeaucoup d’autres études, des réplications\nLes émotions perturbent les mécanismes de l’attention sélective\n\nMécanismes permettant d’inhiber les informations non pertinentes\n\nL’activation des émotions et leur traitement occupe de la ressource attentionnelle\nLa tâche d’attention sélective est ralentie\n\n\nOn vient de voir que l’on met plus de temps à réaliser la tâche de stroop quand on introduit des émotions dans les stimuli. Beaucoup d’autres études … Ce que l’on peut conclure des études sur émotion et attention sélective, c’est … Mécanismes permettant d’inhiber les informations non pertinentes : ce que l’on a vu dans la tâche de stroop. Mais cela est aussi valable pour les mécanismes qui permettent d’interrompre une réponse déjà déclenchée."
+    "text": "Émotion et attention sélective : conclusion\n\nBeaucoup d’autres études, des réplications\nLes émotions perturbent les mécanismes de l’attention sélective\n\nMécanismes permettant d’inhiber les informations non pertinentes (e.g., étude stroop émotionnel)\n\nL’activation des émotions et leur traitement occupe de la ressource attentionnelle\nLa tâche d’attention sélective est ralentie\n\n\nOn vient de voir que l’on met plus de temps à réaliser la tâche de stroop quand on introduit des émotions dans les stimuli. Beaucoup d’autres études … Ce que l’on peut conclure des études sur émotion et attention sélective, c’est … Mécanismes permettant d’inhiber les informations non pertinentes : ce que l’on a vu dans la tâche de stroop. Mais cela est aussi valable pour les mécanismes qui permettent d’interrompre une réponse déjà déclenchée."
   },
   {
-    "objectID": "Cours.html#variante-avec-des-visages-mathews-et-al.-2007",
-    "href": "Cours.html#variante-avec-des-visages-mathews-et-al.-2007",
+    "objectID": "Cours.html#variante-avec-des-visages-fox-et-al.-2007",
+    "href": "Cours.html#variante-avec-des-visages-fox-et-al.-2007",
     "title": "Émotion et Cognition",
-    "section": "Variante avec des visages (Mathews et al. (2007)",
-    "text": "Variante avec des visages (Mathews et al. (2007)\n\n\nPhotographies de 4 hommes et 4 femmes (Ekman & Firesen, 1976) Uniquement la partie centrale du visage visible (cheveux et arrière-plan effacés) Expression neutre/apeurée Regard central/vers la gauche/vers la droite Les participants doivent appuyer sur le bouton correspondant à la lettre, T ou L (boutons placés verticalement pour minimiser l’interférence due à la position des cibles (droite ou gauche)). On fait passer le test à des participants anxieux et non anxieux."
+    "section": "Variante avec des visages (Fox et al. (2007)",
+    "text": "Variante avec des visages (Fox et al. (2007)\n\n\n\n\n\n\nVisages\n\n\n\n\n\n\n\nDispositif\n\n\n\n\n\n\nPhotographies de 4 hommes et 4 femmes (Ekman & Firesen, 1976) Uniquement la partie centrale du visage visible (cheveux et arrière-plan effacés) Expression neutre/apeurée/en colère/heureuse Regard central/vers la gauche/vers la droite Les participants doivent appuyer sur le bouton correspondant à la lettre, T ou L (boutons placés verticalement pour minimiser l’interférence due à la position des cibles (droite ou gauche)). On fait passer le test à des participants anxieux et non anxieux."
   },
   {
     "objectID": "Cours.html#résultats-temps-de-latence-regards-dirigés-vers-le-centre",
     "href": "Cours.html#résultats-temps-de-latence-regards-dirigés-vers-le-centre",
     "title": "Émotion et Cognition",
     "section": "Résultats : temps de latence regards dirigés vers le centre",
-    "text": "Résultats : temps de latence regards dirigés vers le centre\n\nPour les regards vers le centre, pas de différence entre les groupes (anxieux vs. non-anxieux),\nInteraction Groupe x Expression émotionnelle : F(1, 42)= 2.59, p &lt;.12\n\n\n\nTemps de latence des réponses (SOA : Stimulus onset asynchrony = temps entre l’apparition du stim et celle du suivant, SOA réglé sur deux valeurs, effet du SOA mais pas d’interaction). Plus le participant répond vite, plus le temps de latence est bas. Les meilleurs scores sont donc les scores les plus faibles, les plus bas sur la courbe."
+    "text": "Résultats : temps de latence regards dirigés vers le centre\n\nPour les regards vers le centre (pas d’indice regard)\nInteraction Groupe x Expression émotionnelle : F(3, 114)= 24.2, p &lt;.001\n\n\n\nTemps de latence des réponses (SOA : Stimulus onset asynchrony = temps entre l’apparition du stim et celle du suivant, SOA réglé sur deux valeurs, effet du SOA mais pas d’interaction). Plus le participant répond vite, plus le temps de latence est bas. Les meilleurs scores sont donc les scores les plus faibles, les plus bas sur la courbe. Les participants non anxieux répondent + vite (hyp: se désengagent plus rapidement de l’image pour appuyer sur le bouton) que les participants anxieux. L’émotion impacte différemment les participants selon leurs caractéristiques individuelles."
   },
   {
     "objectID": "Cours.html#résultats-temps-de-latence-regards-dirigés-vers-la-gauchedroite",
     "href": "Cours.html#résultats-temps-de-latence-regards-dirigés-vers-la-gauchedroite",
     "title": "Émotion et Cognition",
     "section": "Résultats : temps de latence regards dirigés vers la gauche/droite",
-    "text": "Résultats : temps de latence regards dirigés vers la gauche/droite\nPour les regards dirigés à droite ou à gauche :"
-  },
-  {
-    "objectID": "Cours.html#section-1",
-    "href": "Cours.html#section-1",
-    "title": "Émotion et Cognition",
-    "section": "",
-    "text": "Effet principal de la congruence\nInteraction Congruence x Expression Emotionnelle x Groupe\nCongruent : le groupe «anxieux» réagit plus vite quand le visage est menaçant que le groupe «non anxieux», t(42)=1.74, p&lt;.05\nn.s. pour le reste\n\n\nRegard incongruent : le regard va vers la gauche et la cible est à droite, ou l’inverse. Congruent : cible et regard dans la même direction. Effet principal de la congruence : tous les participants sont plus rapides quand c’est congruent. Quand la cible apparaît dans la direction du regard de la photo, le participant la repère plus vite. On voit qu’il y a une interaction. Les participants anxieux n’ont pas les mêmes résultats que les participants non anxieux."
+    "text": "Résultats : temps de latence regards dirigés vers la gauche/droite\nPour les regards dirigés à droite ou à gauche :\n\nEffet principal du SOA (temps d’exposition), F(1, 38)= 214.8, p &lt;.001\n\nréponses plus rapides quand SOA long\n\nEffet de la congruence mais interaction, alors on n’analyse pas l’effet principal mais les effets simples\n\nInteraction Groupe x Expression émotionnelle x Congruence : F(3, 114)= 12.2, p &lt;.001\n\n\n\n\n\n\n\nInteraction\n\n\n\n\n\n\n\nEffets simples de la congruence\n\n\n\n\n\n\nRegard incongruent : le regard va vers la gauche et la cible est à droite, ou l’inverse. Congruent : cible et regard dans la même direction. Effet principal de la congruence : tous les participants sont plus rapides quand c’est congruent. Quand la cible apparaît dans la direction du regard de la photo, le participant la repère plus vite. Mais analyse des effets simples car interaction. Effet simple : effet de la congruence dans chaque condition (!= effet principal, effet en moyennant les autres facteurs du modèle) On voit qu’il y a une interaction. Les participants anxieux n’ont pas les mêmes résultats que les participants non anxieux."
   },
   {
     "objectID": "Cours.html#discussion",
     "href": "Cours.html#discussion",
     "title": "Émotion et Cognition",
     "section": "Discussion",
-    "text": "Discussion\n\nEffet de la congruence =&gt; la direction du regard d’une autre personne a un effet sur l’attention de l’observateur\n\nSuit la même direction\nFacilite la détection de la cible\n\nInteraction Congruence x Expression émotionnelle x Groupe\n\nHypothèse : regard apeuré -&gt; danger, alors peur+congruence -&gt; vitesse max de détection\nPas d’augmentation de la vitesse chez les sujets non anxieux\nMais augmentation significative chez les sujets anxieux\nVariabilité interindividuelle dans l’orientation de l’attention\n!= avec l’hypothèse d’une attention visuelle automatique\n\n\n\nUn regard apeuré signalant un danger, la condition peur +congruence devrait être associée à la détection la plus rapide de la cible. En contradiction avec l’hypothèse d’un fonctionnement automatisé de l’attention visuelle puisqu’on voit que le caractère émotionnel des stimuli et celui des participants entrent en jeu dans la détection de cibles."
+    "text": "Discussion\n\nRegard central (vers le participant) : Les visages en colère ralentissent les réponses des participants anxieux -&gt; retiennent davantage l’attention\nEffet de la congruence =&gt; la direction du regard d’une autre personne a un effet sur l’attention de l’observateur\n\nSuit la même direction\nFacilite la détection de la cible\n\nInteraction Congruence x Expression émotionnelle x Groupe\n\nHypothèse : regard apeuré -&gt; danger dans l’environnement\nPas d’effet spécifique chez les sujets non anxieux\nMais augmentation significative de l’effet de congruence chez les sujets anxieux\n\n=&gt; Variabilité interindividuelle dans l’orientation de l’attention\nSi l’attention visuelle est automatique, elle est modulée par le caractère émotionnel des stimuli et des participants\n\n\nUn regard apeuré signalant un danger, la condition peur +congruence devrait être associée à la détection la plus rapide de la cible, surtout chez les anxieux : Oui. Si on reprend l’hypothèse d’un fonctionnement automatisé de l’attention visuelle, cette étude suggère qu’il est modulé par le caractère émotionnel des stimuli et celui des participants."
   },
   {
     "objectID": "Cours.html#émotion-et-orientation-de-lattention-conclusion",
     "href": "Cours.html#émotion-et-orientation-de-lattention-conclusion",
     "title": "Émotion et Cognition",
     "section": "Émotion et orientation de l’attention : conclusion",
-    "text": "Émotion et orientation de l’attention : conclusion\n\nNos émotions influencent l’orientation de l’attention\nRecherche visuelle : orientation de l’attention plus rapide vers les stimuli à valence émotionnelle /neutres\nStimuli à valence émotionnelle – semblent être traités plus rapidement que +\nLes informations à valence émotionnelle – sont d’autant plus vite traitées que les participants ont des traits émotionnels –\n\n\nfin de séance ?"
+    "text": "Émotion et orientation de l’attention : conclusion\n\nNos émotions influencent l’orientation de l’attention\nRecherche visuelle : orientation de l’attention plus rapide vers les stimuli à valence émotionnelle /neutres\nStimuli à valence émotionnelle – semblent être traités plus rapidement que +\nLes informations à valence émotionnelle – sont d’autant plus vite traitées que les participants ont des traits émotionnels –"
+  },
+  {
+    "objectID": "Cours.html#émotion-positive-et-partage-de-lattention",
+    "href": "Cours.html#émotion-positive-et-partage-de-lattention",
+    "title": "Émotion et Cognition",
+    "section": "Émotion positive et partage de l’attention",
+    "text": "Émotion positive et partage de l’attention\n\nMartin & Kerns (2011)\n2 conditions : émotion neutre/positive\n\nVidéos de pose de parquet / série Seinfeld\n\nTâche de running span : séries de 12 à 20 chiffres entendues, rappeler les 6 derniers\n\n\nLes vidéos font le même temps. Les participants sont assignés à un groupe au hasard au départ. Vérification de l’état émotionnel après visionnage avec un questionnaire : Comment vous sentez-vous maintenant ? 16 mots (valence +/-, intensité forte/faible, exemple : serein, ravi, inquiet, en colère) et les participants répondent sur une échelle en 5 points de pas du tout à très fortement"
+  },
+  {
+    "objectID": "Cours.html#martin-kerns-2011",
+    "href": "Cours.html#martin-kerns-2011",
+    "title": "Émotion et Cognition",
+    "section": "Martin & Kerns (2011)",
+    "text": "Martin & Kerns (2011)\n\n\n\n\nExpérience 1 : en inter (between-subject)\nParticipants assignés à un groupe au hasard\nInduction vidéo : 10 minutes (induction), puis 5 minutes (booster)\n\n\n\n\n\n\nÉvaluation de l’émotion induite"
+  },
+  {
+    "objectID": "Cours.html#martin-kerns-2011-1",
+    "href": "Cours.html#martin-kerns-2011-1",
+    "title": "Émotion et Cognition",
+    "section": "Martin & Kerns (2011)",
+    "text": "Martin & Kerns (2011)\n\n\n\n\nExpérience 1 : en inter (between-subject)\nLe groupe + réussit moins bien la tâche de RMS\nt(178) = 2.14, p &lt; .05, d = .32\n\n\n\n\n\n\nScore d’attention partagée en fonction du groupe\n\n\n\n\n\n\nQue veut dire inter ? Chaque groupe ne sera confronté qu’à une seule modalité d=.32, d de Cohen, qui montre un effet entre faible et moyen d=.2 : effet faible, d=.5, effet moyen, d=.8, effet fort\nQuelles sont les limites de l’étude ? Est-ce qu’on peut conclure sur le fait que l’émotion positive affecte l’attention partagée ? En est-on sûr et si non, comment apporter davantage de preuve ?\nPour répliquer et vérifier qu’il n’y avait pas de déséquilibre dans les groupes faits au hasard sur les capacités attentionnelles, réplication, mais cette fois, … en intra"
+  },
+  {
+    "objectID": "Cours.html#martin-kerns-2011-2",
+    "href": "Cours.html#martin-kerns-2011-2",
+    "title": "Émotion et Cognition",
+    "section": "Martin & Kerns (2011)",
+    "text": "Martin & Kerns (2011)\n\n\n\n\nExpérience 2 : en intra (within-subject)\nLe groupe + réussit moins bien la tâche de RMS\nt(89) = 2.58, p &lt; .011, d = .27\n\n\n\n\n\n\nScore d’attention partagée en fonction du groupe en inter et en intra\n\n\n\n\n\n\npourquoi refaire l’expérimentation en intra ?"
+  },
+  {
+    "objectID": "Cours.html#émotion-négative-et-partage-de-lattention",
+    "href": "Cours.html#émotion-négative-et-partage-de-lattention",
+    "title": "Émotion et Cognition",
+    "section": "Émotion négative et partage de l’attention",
+    "text": "Émotion négative et partage de l’attention\n\n\n\nShackman et al. (2006)\nTâche de N-back\n\nVerbale (-) /spatiale (–)\n\nInduction émotionnelle\n\nMenace d’un choc électrique\nPas de menace de choc\n\nMenace de choc\n\nInformation : entre 1 et 7, d’intensité croissante\nRéalité : 1 choc\n\nTâche et induction en intra, contrebalancées\n\n\n\n\n\n\nDispositif\n\n\n\n\n\nLe principe de la tâche de N-back : tâche de jugement, le participant doit indiquer si ce qu’il voit est identique à l’item présenté N items avant, ou pas. Ici c’est une tâche verbale et spatiale. Voici les stimuli présentés. Le participant doit dire si l’item présenté 3 items avant est le même ou pas. Pour la tâche verbale, le participant devait dire s’il avait vu les mêmes lettres dans le carré. Pour la tâche spatiale, il devait dire si le carré était au même endroit. Les participants font les deux tâches et elles sont contrebalancées. L’émotion négative est induite par la menace d’un choc électrique et pour l’état neutre, pas de menace de choc électrique. Arguments de choix du choc électrique : pas de familiarité (contrairement aux films), pas de contenu qui fait une charge cognitive supplémentaire Les électrodes sont débranchées dans la condition pas de menace de choc"
+  },
+  {
+    "objectID": "Cours.html#émotion-négative-et-partage-de-lattention-1",
+    "href": "Cours.html#émotion-négative-et-partage-de-lattention-1",
+    "title": "Émotion et Cognition",
+    "section": "Émotion négative et partage de l’attention",
+    "text": "Émotion négative et partage de l’attention\n\n\nOn voit que le résultat est comparable dans les deux conditions pour la tâche verbale, mais est très différent pour la tâche spatiale. L’émotion négative a un effet négatif sur l’attention partagée dans sa dimension spatiale"
+  },
+  {
+    "objectID": "Cours.html#émotion-négative-et-partage-de-lattention-2",
+    "href": "Cours.html#émotion-négative-et-partage-de-lattention-2",
+    "title": "Émotion et Cognition",
+    "section": "Émotion négative et partage de l’attention",
+    "text": "Émotion négative et partage de l’attention\n\nMenacés de choc électrique, les participants peuvent partager leurs ressources attentionnelles verbales aussi bien que sans menace\nMais leurs ressources attentionnelles spatiales sont négativement impactées\nHyp : gérer l’anxiété et ressources attentionnelles spatiales pourraient partager les mêmes réseaux cérébraux\nIntérêt de la méthodologie de l’étude : différenciation des phénomènes observés\n\n\nIntérêt de la méthodo de l’étude, elle permet une différenciation des phénomènes observés et de montrer que certains mécanismes sont préservés alors que d’autres sont impactés au sein d’une même fonction."
+  },
+  {
+    "objectID": "Cours.html#conclusions",
+    "href": "Cours.html#conclusions",
+    "title": "Émotion et Cognition",
+    "section": "Conclusions",
+    "text": "Conclusions\n\nInfluence importante (+/-) des émotions sur l’attention\n\nPositive quand elles dirigent vers des aspects pertinents des stimuli\nNégative quand elles dirigent vers un aspect non pertinent\n\nNos émotions changent :\n\nCe à quoi nous prêtons attention / nous ne prêtons pas attention\nComment nous le faisons\nLes ressources attentionnelles allouées à la tâche\n\nMais on ne sait pas encore si c’est toujours le cas, et pour tout le monde\n\n\nEx positive : regards apeurés vers la cible Ex négative : stroop émotionnel Nos émotions changent ce à quoi nous faisons attention, comment nous prêtons attention aux informations, et donc, à quoi nous ne prêtons pas attention à cause d ’une trop grande mobilisation attentionnelle sur les informations émotionnelles non pertinentes pour la tâche à réaliser.\nIl faut encore faire beaucoup d’études pour comprendre plus finement comment l’émotion affecte l’attention. Dans l’étude de Schackman et al., on a vu par exemple que l’émotion négative n’impactait qu’une partie de l’attention partagée"
+  },
+  {
+    "objectID": "Cours.html#conclusions-1",
+    "href": "Cours.html#conclusions-1",
+    "title": "Émotion et Cognition",
+    "section": "Conclusions",
+    "text": "Conclusions\n\nFonctions du système attentionnel : s’orienter vers et sélectionner les informations pertinentes pour réaliser une tâche cognitive\nLes émotions ont une influence parfois négative … au labo\nEst-ce qu’efficacité attentionnelle au labo et hors labo sont les mêmes ?\n\nFace à un prédateur\nPour détecter et analyser un danger potentiel\n\nL’optimisation des mécanismes attentionnels via les émotions n’est pas la même\n\n\nEx de la voiture et du piéton Ex impact – de l’émotion sur la tâche de stroop émotionnel, mais dans la vraie vie c’est plutôt bien que l’on sélectionne le danger par exemple."
+  },
+  {
+    "objectID": "Cours.html#émotion-et-mémoire",
+    "href": "Cours.html#émotion-et-mémoire",
+    "title": "Émotion et Cognition",
+    "section": "Émotion et mémoire",
+    "text": "Émotion et mémoire\n\nNotre mémoire fonctionne-t-elle mieux lorsque nous sommes heureux que lorsque nous sommes tristes ? \nRetenons-nous plus facilement et pour plus longtemps une bonne nouvelle qu’une mauvaise nouvelle ?\nRappelons-nous plus d’informations relatives à des événements tristes que relatives à des événements joyeux ou neutres quand nous sommes tristes, et plus d’informations relatives à des événements joyeux quand nous sommes joyeux ? \nLe type, la nature et le nombre d’informations émotionnelles et neutres récupérées n’ont-ils rien à voir avec notre état émotionnel au moment du rappel ? \nPour retrouver un souvenir lointain d’un événement vécu dans un certain contexte émotionnel et enfoui très profondément dans notre mémoire, est-il important de se remettre dans ce contexte émotionnel et de ré-éprouver ou revivre d’une manière ou d’une autre la même émotion que celle ressentie au moment où l’événement est arrivé ?\nOu, au contraire, est-il tout à fait possible de retrouver un souvenir sans avoir à réactiver un contexte émotionnel initial au moment de la recherche d’un souvenir ? \nSe replonger dans les émotions ressenties au moment où est survenu un événement de notre vie aide-t-il à retrouver plus d’informations sur cet événement ?\nSi oui, quel type d’informations (informations plus détaillées, plus précises et exactes vs. informations plus générales et moins précises, moins exactes ?\nSinon, l’émotion réactivée en nous bloque-t-elle complètement la récupération d’informations pourtant stockées au moment de l’encodage et conservées dans notre mémoire ?"
+  },
+  {
+    "objectID": "Cours.html#plan-de-la-partie-3---émotion-et-mémoire",
+    "href": "Cours.html#plan-de-la-partie-3---émotion-et-mémoire",
+    "title": "Émotion et Cognition",
+    "section": "Plan de la partie 3 - Émotion et mémoire",
+    "text": "Plan de la partie 3 - Émotion et mémoire\n\nLes émotions améliorent la mémoire\nLes émotions dégradent la mémoire\nEffets de congruence affective, de dépendance au contexte émotionnel et de trade-off\n\n\nPlan de ce que l’on va voir sur émotion et mémoire. On va s’intéresser aux effets positifs des émotions sur la mémoire … Trade-off : compromis/troc"
+  },
+  {
+    "objectID": "Cours.html#effet-damplification-sur-des-mots-isolés",
+    "href": "Cours.html#effet-damplification-sur-des-mots-isolés",
+    "title": "Émotion et Cognition",
+    "section": "Effet d’amplification sur des mots isolés",
+    "text": "Effet d’amplification sur des mots isolés\n\nDavidson et al. (2006)\nStimuli : mots neutres (e.g., foot, dustpan) / mots émotionnels (e.g., cash, rollercoaster)\nProcédures :\n\nÉcoute des mots lus pour moitié par un homme/femme et jugement neutre/émotionnel (appui sur un bouton)\nLecture des mots écrits en violet ou orange\n\nPuis, surprise :\nRappel d’items\nRappel de la source : male/female ; violet/orange\n\n\nLes participants ont d’abord jugé une liste de mots selon l’intensité et la valence émotionnelle et les listes de mots utilisées ensuite ont été construites à partir de ces jugements (-&gt; mots neutres/émotionnels).\nPlusieurs expériences. Les participants ne savent pas qu’ils vont devoir rappeler"
+  },
+  {
+    "objectID": "Cours.html#effet-damplification-sur-des-mots-isolés-1",
+    "href": "Cours.html#effet-damplification-sur-des-mots-isolés-1",
+    "title": "Émotion et Cognition",
+    "section": "Effet d’amplification sur des mots isolés",
+    "text": "Effet d’amplification sur des mots isolés\n\n\nDavidson et al. (2006)\n\nplus (+) de rappel des mots émotionnels\nPas de différence de rappel de la source\n\nen visuel comme en auditif\n\n\n\n\n\n\n\n\nIl y a plusieurs résultats (car plusieurs procédures) mais les résultats sont consistants/cohérents (cf graphique)."
+  },
+  {
+    "objectID": "Cours.html#effet-damplification-sur-des-textesscènes",
+    "href": "Cours.html#effet-damplification-sur-des-textesscènes",
+    "title": "Émotion et Cognition",
+    "section": "Effet d’amplification sur des textes/scènes",
+    "text": "Effet d’amplification sur des textes/scènes\nCahill & McGaugh (1995)\n\nEncodage : présentation de 12 diapos, un récit par diapo\n2 conditions : diapo et récit neutres/ diapo et récit émotionnels\nRegarder les diapos et écouter les récits :\n\névaluation de la valence émotionnelle (0: pas du tout émotionnel à 10: extrêmement émotionnel)\n\n\n\nInter sujet On ne dit pas aux participants qu’ils vont devoir rappeler des éléments. Fin S5"
+  },
+  {
+    "objectID": "Cours.html#section-2",
+    "href": "Cours.html#section-2",
+    "title": "Émotion et Cognition",
+    "section": "",
+    "text": "Phase 1/Phase 2/Phase 3"
+  },
+  {
+    "objectID": "Cours.html#effet-damplification-sur-des-textesscènes-1",
+    "href": "Cours.html#effet-damplification-sur-des-textesscènes-1",
+    "title": "Émotion et Cognition",
+    "section": "Effet d’amplification sur des textes/scènes",
+    "text": "Effet d’amplification sur des textes/scènes\nCahill & McGaugh (1995)\n\n2 semaines plus tard, surprise\n\nTâche de rappel libre\nTâche de reconnaissance\n\n\n\nTâche de rappel libre, le participant rappelle tous les éléments dont il se souvient. Tâche de reconnaissance : 80 questions (5 à 8 par slide). Pour chaque question, 1 réponse correcte et 3 réponses plausibles sont proposées."
+  },
+  {
+    "objectID": "Cours.html#effet-damplification-sur-des-textesscènes-2",
+    "href": "Cours.html#effet-damplification-sur-des-textesscènes-2",
+    "title": "Émotion et Cognition",
+    "section": "Effet d’amplification sur des textes/scènes",
+    "text": "Effet d’amplification sur des textes/scènes\nMeilleure mémorisation des éléments émotionnels"
+  },
+  {
+    "objectID": "Cours.html#effet-damplification-sur-des-textesscènes-3",
+    "href": "Cours.html#effet-damplification-sur-des-textesscènes-3",
+    "title": "Émotion et Cognition",
+    "section": "Effet d’amplification sur des textes/scènes",
+    "text": "Effet d’amplification sur des textes/scènes\nSi on regarde le détail\n\n\nRMQ : 7 Une image de cerveau attire le regard de l’enfant/ Une image de cerveau montre un saignement de l’enfant"
   }
 ]
