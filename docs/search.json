@@ -424,7 +424,7 @@
     "href": "Cours.html#émotion-et-attention-sélective-conclusion",
     "title": "Émotion et Cognition",
     "section": "Émotion et attention sélective : conclusion",
-    "text": "Émotion et attention sélective : conclusion\n\nBeaucoup d’autres études, des réplications\nLes émotions perturbent les mécanismes de l’attention sélective\n\nMécanismes permettant d’inhiber les informations non pertinentes (e.g., étude stroop émotionnel)\n\nL’activation des émotions et leur traitement occupe de la ressource attentionnelle\nLa tâche d’attention sélective est ralentie\n\n\nOn vient de voir que l’on met plus de temps à réaliser la tâche de stroop quand on introduit des émotions dans les stimuli. Beaucoup d’autres études … Ce que l’on peut conclure des études sur émotion et attention sélective, c’est … Mécanismes permettant d’inhiber les informations non pertinentes : ce que l’on a vu dans la tâche de stroop. Mais cela est aussi valable pour les mécanismes qui permettent d’interrompre une réponse déjà déclenchée."
+    "text": "Émotion et attention sélective : conclusion\n\nBeaucoup d’autres études, des réplications\nLes émotions perturbent les mécanismes de l’attention sélective\n\nMécanismes permettant d’inhiber les informations non pertinentes (e.g., étude stroop émotionnel)\n\nL’activation des émotions et leur traitement occupent de la ressource attentionnelle\nLa tâche d’attention sélective est ralentie\n\n\nOn vient de voir que l’on met plus de temps à réaliser la tâche de stroop quand on introduit des émotions dans les stimuli. Beaucoup d’autres études … Ce que l’on peut conclure des études sur émotion et attention sélective, c’est … Mécanismes permettant d’inhiber les informations non pertinentes : ce que l’on a vu dans la tâche de stroop. Mais cela est aussi valable pour les mécanismes qui permettent d’interrompre une réponse déjà déclenchée."
   },
   {
     "objectID": "Cours.html#variante-avec-des-visages-fox-et-al.-2007",
@@ -438,7 +438,7 @@
     "href": "Cours.html#résultats-temps-de-latence-regards-dirigés-vers-le-centre",
     "title": "Émotion et Cognition",
     "section": "Résultats : temps de latence regards dirigés vers le centre",
-    "text": "Résultats : temps de latence regards dirigés vers le centre\n\nPour les regards vers le centre (pas d’indice regard)\nInteraction Groupe x Expression émotionnelle : F(3, 114)= 24.2, p &lt;.001\n\n\n\nTemps de latence des réponses (SOA : Stimulus onset asynchrony = temps entre l’apparition du stim et celle du suivant, SOA réglé sur deux valeurs, effet du SOA mais pas d’interaction). Plus le participant répond vite, plus le temps de latence est bas. Les meilleurs scores sont donc les scores les plus faibles, les plus bas sur la courbe. Les participants non anxieux répondent + vite (hyp: se désengagent plus rapidement de l’image pour appuyer sur le bouton) que les participants anxieux. L’émotion impacte différemment les participants selon leurs caractéristiques individuelles."
+    "text": "Résultats : temps de latence regards dirigés vers le centre\n\nPour les regards vers le centre (pas d’indice regard)\nInteraction Groupe x Expression émotionnelle : F(3, 114)= 24.2, p &lt;.001\n\n\n\nTemps de latence des réponses (SOA : Stimulus onset asynchrony = temps entre l’apparition du stim et celle du suivant, SOA réglé sur deux valeurs, effet du SOA mais pas d’interaction). Plus le participant répond vite, plus le temps de latence est bas. Les meilleurs scores sont donc les scores les plus faibles, les plus bas sur la courbe. Pour une interaction : df=(a−1)(b−1) où : a = nombre de niveaux du facteur 1 b = nombre de niveaux du facteur 2\nDonc : (2−1)×(4−1)=1×3=3 Pour un facteur intra-sujet avec k niveaux : df effet = k − 1 df erreur = (n − groupes) × (k − 1) Les participants non anxieux répondent + vite (hyp: se désengagent plus rapidement de l’image pour appuyer sur le bouton) que les participants anxieux. L’émotion impacte différemment les participants selon leurs caractéristiques individuelles."
   },
   {
     "objectID": "Cours.html#résultats-temps-de-latence-regards-dirigés-vers-la-gauchedroite",
@@ -522,7 +522,7 @@
     "href": "Cours.html#conclusions-1",
     "title": "Émotion et Cognition",
     "section": "Conclusions",
-    "text": "Conclusions\n\nFonctions du système attentionnel : s’orienter vers et sélectionner les informations pertinentes pour réaliser une tâche cognitive\nLes émotions ont une influence parfois négative … au labo\nEst-ce qu’efficacité attentionnelle au labo et hors labo sont les mêmes ?\n\nFace à un prédateur\nPour détecter et analyser un danger potentiel\n\nL’optimisation des mécanismes attentionnels via les émotions n’est pas la même\n\n\nEx de la voiture et du piéton Ex impact – de l’émotion sur la tâche de stroop émotionnel, mais dans la vraie vie c’est plutôt bien que l’on sélectionne le danger par exemple."
+    "text": "Conclusions\n\nFonctions du système attentionnel : s’orienter vers et sélectionner les informations pertinentes pour réaliser une tâche cognitive\nLes émotions ont une influence parfois négative … au labo\nEst-ce qu’efficacité attentionnelle au labo et hors labo sont les mêmes ?\n\nFace à un prédateur\nPour détecter et analyser un danger potentiel\n\nL’optimisation des mécanismes attentionnels via les émotions n’est pas la même\n\n\nEx de la voiture et du piéton : si on conduit et que notre attention spatiale est diminuée face à une émotion négative au téléphone par exemple, on risque de ne pas bien analyser l’environnement. influence négative de l’émotion au labo ET hors labo. Par contre, le fait de prioriser le danger sur les autres activités est souvent bénéfique. Ex : focaliser son attention sur la signalisation plutôt que sur la tâche en cours (consultation GPS) Ex impact – de l’émotion sur la tâche de stroop émotionnel, mais dans la vraie vie c’est plutôt bien que l’on sélectionne le danger par exemple."
   },
   {
     "objectID": "Cours.html#émotion-et-mémoire",
@@ -543,14 +543,14 @@
     "href": "Cours.html#effet-damplification-sur-des-mots-isolés",
     "title": "Émotion et Cognition",
     "section": "Effet d’amplification sur des mots isolés",
-    "text": "Effet d’amplification sur des mots isolés\n\nDavidson et al. (2006)\nStimuli : mots neutres (e.g., foot, dustpan) / mots émotionnels (e.g., cash, rollercoaster)\nProcédures :\n\nÉcoute des mots lus pour moitié par un homme/femme et jugement neutre/émotionnel (appui sur un bouton)\nLecture des mots écrits en violet ou orange\n\nPuis, surprise :\nRappel d’items\nRappel de la source : male/female ; violet/orange\n\n\nLes participants ont d’abord jugé une liste de mots selon l’intensité et la valence émotionnelle et les listes de mots utilisées ensuite ont été construites à partir de ces jugements (-&gt; mots neutres/émotionnels).\nPlusieurs expériences. Les participants ne savent pas qu’ils vont devoir rappeler"
+    "text": "Effet d’amplification sur des mots isolés\nDavidson et al. (2006)\n\nStimuli : mots neutres (e.g., foot, dustpan) / mots émotionnels (e.g., cash, rollercoaster)\nProcédures :\n\nÉcoute des mots lus pour moitié par un homme/femme et jugement neutre/émotionnel (appui sur un bouton)\nLecture des mots écrits en violet ou orange\n\nPuis, surprise :\nRappel d’items\nRappel de la source : male/female ; violet/orange\n\n\nLes participants ont d’abord jugé une liste de mots selon l’intensité et la valence émotionnelle et les listes de mots utilisées ensuite ont été construites à partir de ces jugements (-&gt; mots neutres/émotionnels).\nPlusieurs expériences. Les participants ne savent pas qu’ils vont devoir rappeler"
   },
   {
     "objectID": "Cours.html#effet-damplification-sur-des-mots-isolés-1",
     "href": "Cours.html#effet-damplification-sur-des-mots-isolés-1",
     "title": "Émotion et Cognition",
     "section": "Effet d’amplification sur des mots isolés",
-    "text": "Effet d’amplification sur des mots isolés\n\n\nDavidson et al. (2006)\n\nplus (+) de rappel des mots émotionnels\nPas de différence de rappel de la source\n\nen visuel comme en auditif\n\n\n\n\n\n\n\n\nIl y a plusieurs résultats (car plusieurs procédures) mais les résultats sont consistants/cohérents (cf graphique)."
+    "text": "Effet d’amplification sur des mots isolés\n\n\nDavidson et al. (2006)\n\nPlus (+) de rappel des mots émotionnels\nPas de différence de rappel de la source\n\nen visuel comme en auditif\n\n\n\n\n\n\n\n\nIl y a plusieurs résultats (car plusieurs procédures) mais les résultats sont consistants/cohérents (cf graphique)."
   },
   {
     "objectID": "Cours.html#effet-damplification-sur-des-textesscènes",
@@ -560,31 +560,171 @@
     "text": "Effet d’amplification sur des textes/scènes\nCahill & McGaugh (1995)\n\nEncodage : présentation de 12 diapos, un récit par diapo\n2 conditions : diapo et récit neutres/ diapo et récit émotionnels\nRegarder les diapos et écouter les récits :\n\névaluation de la valence émotionnelle (0: pas du tout émotionnel à 10: extrêmement émotionnel)\n\n\n\nInter sujet On ne dit pas aux participants qu’ils vont devoir rappeler des éléments. Fin S5"
   },
   {
+    "objectID": "Cours.html#section-1",
+    "href": "Cours.html#section-1",
+    "title": "Émotion et Cognition",
+    "section": "",
+    "text": "drill: simulation distraught : désemparée"
+  },
+  {
     "objectID": "Cours.html#section-2",
     "href": "Cours.html#section-2",
     "title": "Émotion et Cognition",
     "section": "",
-    "text": "Phase 1/Phase 2/Phase 3"
+    "text": "Phase 1/Phase 2/Phase 3 : phases 1 identiques et phases 3 proches dans les deux conditions"
   },
   {
     "objectID": "Cours.html#effet-damplification-sur-des-textesscènes-1",
     "href": "Cours.html#effet-damplification-sur-des-textesscènes-1",
     "title": "Émotion et Cognition",
     "section": "Effet d’amplification sur des textes/scènes",
-    "text": "Effet d’amplification sur des textes/scènes\nCahill & McGaugh (1995)\n\n2 semaines plus tard, surprise\n\nTâche de rappel libre\nTâche de reconnaissance\n\n\n\nTâche de rappel libre, le participant rappelle tous les éléments dont il se souvient. Tâche de reconnaissance : 80 questions (5 à 8 par slide). Pour chaque question, 1 réponse correcte et 3 réponses plausibles sont proposées."
+    "text": "Effet d’amplification sur des textes/scènes\nCahill & McGaugh (1995)\n\n2 semaines plus tard, surprise\n\nTâche de rappel libre\nTâche de reconnaissance\n\n5 à 8 questions par slide, 1 réponse correcte et 3 réponses plausibles par question\n\n\n\n\nTâche de rappel libre, le participant rappelle tous les éléments dont il se souvient. Tâche de reconnaissance : 80 questions (5 à 8 par slide). Pour chaque question, 1 réponse correcte et 3 réponses plausibles sont proposées."
   },
   {
     "objectID": "Cours.html#effet-damplification-sur-des-textesscènes-2",
     "href": "Cours.html#effet-damplification-sur-des-textesscènes-2",
     "title": "Émotion et Cognition",
     "section": "Effet d’amplification sur des textes/scènes",
-    "text": "Effet d’amplification sur des textes/scènes\nMeilleure mémorisation des éléments émotionnels"
+    "text": "Effet d’amplification sur des textes/scènes\nMeilleure mémorisation des éléments émotionnels\n\n\n\n\n\nC’est bien que l’on ne voie pas d’écart entre les groupes sur les phases 1 et 3 =&gt; la différence dans la phase 2 ne vient pas de la capacité de mémorisation"
   },
   {
     "objectID": "Cours.html#effet-damplification-sur-des-textesscènes-3",
     "href": "Cours.html#effet-damplification-sur-des-textesscènes-3",
     "title": "Émotion et Cognition",
     "section": "Effet d’amplification sur des textes/scènes",
-    "text": "Effet d’amplification sur des textes/scènes\nSi on regarde le détail\n\n\nRMQ : 7 Une image de cerveau attire le regard de l’enfant/ Une image de cerveau montre un saignement de l’enfant"
+    "text": "Effet d’amplification sur des textes/scènes\nSi on regarde le détail des slides\n\n\nRMQ : 7 Une image de cerveau attire le regard de l’enfant/ Une image de cerveau montre un saignement de l’enfant"
+  },
+  {
+    "objectID": "Cours.html#effet-damplification-de-la-mémorisation-dû-à-lémotion-ou-au-fait-de-parler-de-ce-que-lon-a-vu",
+    "href": "Cours.html#effet-damplification-de-la-mémorisation-dû-à-lémotion-ou-au-fait-de-parler-de-ce-que-lon-a-vu",
+    "title": "Émotion et Cognition",
+    "section": "Effet d’amplification de la mémorisation : dû à l’émotion ou au fait de parler de ce que l’on a vu ?",
+    "text": "Effet d’amplification de la mémorisation : dû à l’émotion ou au fait de parler de ce que l’on a vu ?\nGuy & Cahill (1999)\n\nStimuli : 6 vidéos (2-3 minutes) émotionnelles et 6 vidéos neutres (intra)\n2 conditions : ne pas en parler/ en parler à au moins 3 personnes (inter)\nTâches :\n1/ Visionnage des vidéos et jugement émotionnel (0 à 10) 2/ Une semaine après, rappel surprise (rappeler le max de choses dont ils se souvenaient des 12 films)\n\n\nOn peut se demander si communiquer autour des vidéos aide à mieux se souvenir, au-delà de l’émotion Vidéos émotionnelles : mutilation d’animaux, crimes violents Vidéos neutres : procès au tribunal, cascadeur Plan mixte : tous les participants voient toutes les vidéos mais ils sont assignés à une seule condition de communication. Demander de dessiner les résultats auxquels on pourrait s’attendre. Que mettrait-on en ordonnée (=VD : nb d’éléments rappelés) ? Que mettrait-on en abscisse (=VI : 1/ vidéos neutres/émotionnelles et 2/ Groupe parler/ne pas parler) ?"
+  },
+  {
+    "objectID": "Cours.html#résultats-2",
+    "href": "Cours.html#résultats-2",
+    "title": "Émotion et Cognition",
+    "section": "Résultats",
+    "text": "Résultats\nGuy & Cahill (1999)\n\n\nTalkers : les participants qui avaient pour instruction de ne pas parler mais qui ont parlé quand même Les films émotionnels sont mieux rappelés que les films neutres. Pas de différence entre ceux qui ont parlé et ceux qui n’ont pas parlé. La répétition post-encodage n’est donc pas nécessaire pour un meilleur rappel des informations émotionnelles."
+  },
+  {
+    "objectID": "Cours.html#effet-damplification-sur-le-contexte",
+    "href": "Cours.html#effet-damplification-sur-le-contexte",
+    "title": "Émotion et Cognition",
+    "section": "Effet d’amplification sur le contexte ?",
+    "text": "Effet d’amplification sur le contexte ?\n\nSituation émotionnelle : est-ce que le contexte des informations cibles est également mieux mémorisé ?\nParfois oui (Doerksen & Shimamura, 2001)\nParfois non (Davidson et al., 2006)\nComment expliquer ces différences ?\n=&gt; Bénéfice de l’émotion de l’information cible uniquement quand on demande au participant de se focaliser sur le contexte\n\n\n\nEst-ce qu’au-delà des stimuli, le contexte dans lesquels ils sont encodés est également mieux rappelé dans une situation émotionnelle ? (Doerksen & Shimamura, 2001) : mots à rappeler, couleur d’encre et de cadre (bleu ou jaune) = contexte. Tâche de rappel de mots puis de rappel de la couleur (mots présentés en noir). Contexte mieux rappelé quand mots émotionnels (Davidson et al., 2006) : on en a parlé avant, mots de couleurs (violet/orange) et voix d’homme/femme Laisser chercher l’explication des différences : bénéfice de l’émotion de l’information cible uniquement quand le participant est explicitement amené à traiter l’information contextuelle (si pas de demande de focalisation sur le contexte, pas de bénéfice de la cible émotionnelle sur le contexte)"
+  },
+  {
+    "objectID": "Cours.html#émotions-négatives-dues-au-stress",
+    "href": "Cours.html#émotions-négatives-dues-au-stress",
+    "title": "Émotion et Cognition",
+    "section": "Émotions négatives dues au stress",
+    "text": "Émotions négatives dues au stress\nKuhlmann et al. (2005)\n\nEncodage liste de 30 mots : 10 neutres, 10 positifs, 10 négatifs\nRappel immédiat – deux groupes équivalents\n2 conditions\n\ncontrôle – raconter un film\nstress – discours devant évaluateurs (Trier Social Stress Test)\n\nTâche de rappel (différé)\n\n\nLes participants sont venus deux jours au laboratoire. Le premier jour, l’expérimentateur leur a présenté une liste de 30 mots (10 neutres, 10 positifs, 10 négatifs) sur une feuille. Les participants avaient deux minutes pour en apprendre le plus possible. Ensuite, ils devaient rappeler le plus de mots possible. Cette procédure a été renouvelée une deuxième fois pour augmenter l’apprentissage. Le lendemain, les participants sont revenus au laboratoire et ont été testés, pour le rappel, soit dans une condition avec stress, soit dans une condition sans stress. Dans la condition avec stress, les participants devaient d’abord préparer, pendant 2 minutes, un discours sur un entretien d’embauche au cours duquel il fallait mettre en avant ses qualités personnelles. Ensuite, les participants donnaient ce discours pendant 5 minutes devant deux évaluateurs (embaucheurs potentiels) vêtus d’une blouse blanche, discours filmé. Enfin, pendant 5 minutes, ils devaient compter à rebours par pas de 17 à partir de 2043. Cette condition est connue pour produire du stress (augmentation de cortisol). Dans la condition contrôle, le discours consistait à raconter un film; il n’était pas donné devant deux évaluateurs en blouse blanche; et il n’était pas filmé. Après le discours, les participants devaient rappeler les mots appris la veille et dont ils se souvenaient."
+  },
+  {
+    "objectID": "Cours.html#résultats-3",
+    "href": "Cours.html#résultats-3",
+    "title": "Émotion et Cognition",
+    "section": "Résultats",
+    "text": "Résultats\n\n\n\nMoins de mots négatifs et positifs en condition stress qu’en condition contrôle\nMais autant de mots neutres\n\n\n\n\n\n\n\nEffects of the stress versus the control condition on delayed memory retrieval of words learned 24 h earlier. Results are expressed as percentages of the second (and last) learning trial of the previous day. Each word list contained 10 positive, 10 neutral, and 10 negative words. The category “arousing words” is a post hoc created category containing the positive and the negative words. §p 0.1, *p 0.05, and p 0.01, differences in paired t tests. For additional statistical analysis using ANOVAs, see Results. Error bars represent SE§ p&lt;.1; * p&lt;.05, p&lt;.01 Arousing words : mots émotionnels"
+  },
+  {
+    "objectID": "Cours.html#effet-des-émotions-liées-au-stress-sur-la-mémoire",
+    "href": "Cours.html#effet-des-émotions-liées-au-stress-sur-la-mémoire",
+    "title": "Émotion et Cognition",
+    "section": "Effet des émotions liées au stress sur la mémoire",
+    "text": "Effet des émotions liées au stress sur la mémoire\n\nEffets délétères du stress sur les performances mnésiques robustes\n\nDans et hors laboratoire\nMontrés sur l’encodage, le maintien, la récupération\n\nMAIS des études montrent que le stress n’a pas d’effet délétère sur la mémorisation d’informations émotionnelles (e.g., Payne et al., 2006)\n\nDiapos et récits du garçon à l’hôpital/ TSST\nEffet – du stress sur l’encodage des informations neutres\nMais pas d’effet sur l’encodage des informations négatives\nSaillance des informations émotionnelles -&gt; attention -&gt; encodage + profond\n\n\n\nCes effets ont été montrés dans différents contextes expérimentaux et sur l’ensemble des mécanismes mnésiques. Mais certaines études montrent également qu’il n’y a pas d’effet du stress sur la mémorisation des informations émotionnelles. C’est l’étude dont on a parlé avec les diapos sur le petit garçon qui va visiter l’hôpital/qui a un grave accident et est emmené à l’hôpital (Cahill & McGaugh (1995). L’expé a été faite en condition contrôle et condition TSST (Trier Social Stress Test) avant le visionnage des diapos"
+  },
+  {
+    "objectID": "Cours.html#quen-conclure",
+    "href": "Cours.html#quen-conclure",
+    "title": "Émotion et Cognition",
+    "section": "Qu’en conclure ?",
+    "text": "Qu’en conclure ?\n\nLes émotions améliorent les performances mnésiques/ les dégradent à d’autres moments\nMéthodologie\n\nManipulation de la valence émotionnelle des informations à mémoriser =&gt; Montrent une amélioration\nManipulation de l’état émotionnel du participant =&gt; dégradation\n\n\n\nSi on regarde la méthodologie des études, on voit que si on manipule la valence … Une fois que l’on a ces conclusions sous les yeux, quelle est la prochaine étape ? = &gt; aller expériementer la conjonction de la manipulation du matériel et de l’état émotionnel"
+  },
+  {
+    "objectID": "Cours.html#quen-conclure-1",
+    "href": "Cours.html#quen-conclure-1",
+    "title": "Émotion et Cognition",
+    "section": "Qu’en conclure ?",
+    "text": "Qu’en conclure ?\n\nQue se passe-t-il pour les performances mnésiques quand l’état émotionnel du participant et la valence émotionnelle du matériel sont étudiés conjointement ?\n\nCongruence : e.g., informations tristes et participant triste\nIncongruence : e.g., informations tristes et participant joyeux"
+  },
+  {
+    "objectID": "Cours.html#congruence-affective-et-mémoire",
+    "href": "Cours.html#congruence-affective-et-mémoire",
+    "title": "Émotion et Cognition",
+    "section": "Congruence affective et mémoire",
+    "text": "Congruence affective et mémoire\n\nEst-ce qu’on rappelle plus d’informations tristes quand on est triste ?\nRappel de plus d’informations joyeuses quand on est joyeux ?\nEst-ce que la congruence affective a un effet sur la mémoire ?\n\nSur l’encodage ?\nSur le maintien ?\nSur le rappel des informations ?\n\n\n\nOn va voir pour exemple des études parmi les premières qui se sont focalisées sur ces questions"
+  },
+  {
+    "objectID": "Cours.html#effet-de-congruence-affective-sur-la-récupération-dinformations",
+    "href": "Cours.html#effet-de-congruence-affective-sur-la-récupération-dinformations",
+    "title": "Émotion et Cognition",
+    "section": "Effet de congruence affective sur la récupération d’informations",
+    "text": "Effet de congruence affective sur la récupération d’informations\nBower et al. (1978, 1981)\n\n2 conditions : état émotionnel joyeux/ triste (hypnose)\n2 tâches\n\nRappel de souvenirs autobiographiques (journal/diary)\nRappel de souvenirs épisodiques (textes lus)\n\nInformations rappelées positives et négatives\n\n\nBower et al. (1978) ont demandé aux participants de tenir un journal quotidien dans lequel ils devaient noter tous les événements émotionnels et évaluer sur une échelle d’intensité de 1 (peu intense) à 10 (très intense) chacun de ces événements. Une semaine plus tard, les participants sont revenus au laboratoire et, par hypnose, étaient mis dans un état émotionnel positif ou négatif. Ils devaient alors essayer de rappeler le plus d’événements consignés dans leur journal quotidien. Bower et ses collaborateurs ont fait une autre expérience où ils ont demandé à leurs participants de rapporter des souvenirs anciens (correspondant à des événement survenus avant leur 15 ans) dans un état émotionnel soit joyeux soit triste (aussi induit par hypnose). Les données ont également révélé un effet de congruence affective : les participants rappelaient davantage de souvenirs anciens agréables dans un état émotionnel positif et de souvenirs anciens désagréables dans un état émotionnel négatif. Dans une autre série d’études, Bower et al. (1981) ont mis, par hypnose, leurs participants dans un état joyeux ou triste avant de leur faire lire un texte présentant deux personnes qui se retrouvent pour jouer au tennis. L’un des deux était décrit comme quelqu’un de triste ou l’autre comme quelqu’un de joyeux. Le jour suivant cette phase d’encodage, ils ont demandé à leurs participants de rappeler le plus d’informations possible dont ils se souvenaient concernant les textes lus la veille."
+  },
+  {
+    "objectID": "Cours.html#bower-et-al.-1978-1981",
+    "href": "Cours.html#bower-et-al.-1978-1981",
+    "title": "Émotion et Cognition",
+    "section": "Bower et al. (1978, 1981)",
+    "text": "Bower et al. (1978, 1981)\n\n\n\nLes participants rappellent plus d’informations positives dans un état émotionnel positif\nPlus (+) d’informations négatives dans un état émotionnel négatif\nPour les souvenirs autobiographiques ET épisodiques\n=&gt; Effet de congruence affective\n\n\n\n\n\n\n\nSouvenirs épisodiques : dans beaucoup d’études expérimentales on distingue : autobiographique → souvenirs réels de vie épisodique expérimental → matériel appris en labo"
+  },
+  {
+    "objectID": "Cours.html#effets-de-congruence-affective",
+    "href": "Cours.html#effets-de-congruence-affective",
+    "title": "Émotion et Cognition",
+    "section": "Effets de congruence affective",
+    "text": "Effets de congruence affective\n\nNotre mémoire dépend de notre état émotionnel\n\nRappel, encodage et maintien : effet de congruence (Bower et al., 1978; 1981)\n\nNotre mémoire dépend aussi de la valence émotionnelle du matériel\nInfluence séparée de notre état émotionnel et de la valence émotionnelle du matériel\nMAIS aussi effet de la congruence affective\n\n\nla congruence affective a un impact sur la mémorisation. A-t-elle également un impact sur le jugement que l’on porte à nos souvenirs ?"
+  },
+  {
+    "objectID": "Cours.html#effets-de-congruence-affective-sur-le-jugement-de-souvenirs-récupérés",
+    "href": "Cours.html#effets-de-congruence-affective-sur-le-jugement-de-souvenirs-récupérés",
+    "title": "Émotion et Cognition",
+    "section": "Effets de congruence affective sur le jugement de souvenirs récupérés",
+    "text": "Effets de congruence affective sur le jugement de souvenirs récupérés\nMiranda & Kihlstrom (2005)\n\n3 conditions : état émotionnel joyeux/ neutre/ triste (induction musicale)\n2 tâches\n\nRappel de souvenirs autobiographiques anciens/récents\nJugement de valence émotionnelle des souvenirs récupérés de -4 (très désagréables) à +4 (très agréables)\n\nà l’époque\nmaintenant\n\n\n3 types d’événements rappelés : positifs, neutres, négatifs\n\n\n1/ les participants écoutent une des musiques 2/ les participants voient défiler 30 mots inducteurs (10 + (ex: cadeau), 10 neutres (ex: table) et 10 – (ex: araignée)) 3/ pour chaque mot, les participants doivent dire le premier souvenir auquel cela leur fait penser RMQ: si mot précédé de  »ancien », donner un souvenir entre la maternelle et le CM2, si mot précédé de « récent », événement situé entre le collège et le présent. 4/ évaluer la valence émotionnelle de chaque souvenir sur l’échelle. Evaluer d’abord quand l’événement est survenu et au moment présent de l’expérience"
+  },
+  {
+    "objectID": "Cours.html#miranda-kihlstrom-2005",
+    "href": "Cours.html#miranda-kihlstrom-2005",
+    "title": "Émotion et Cognition",
+    "section": "Miranda & Kihlstrom (2005)",
+    "text": "Miranda & Kihlstrom (2005)\n\n\n\n\nJugement maintenant\n\n\n\n\n\nJugement au moment des faits\n\n\n\n\nEn ordonnée, le jugement des souvenirs récupérés (-4 à +4), plus la barre est haute, plus le souvenir est jugé positif, plus elle est basse, plus il est jugé négatif. En abscisse, l’émotion du participant pendant la tâche de rappel. En haut à gauche, on a le jugement des souvenirs d’enfance « maintenant », à droite les souvenir d’enfance et leur jugement à l’époque où les événements sont arrivés. En bas à gauche le jugement des souvenirs récents maintenant et à droite lorsque les événements associés ont eu lieu. Les barres gris clair correspondent aux souvenirs induits par les mots neutres, les barres gris moyen aux souvenirs induits par les mots agréables et les barres gris foncé aux souvenirs induits par les mots désagréables.\nLes trois conditions issues de l’induction musicale sont en abscisse : condition positive (musique joyeuse), condition neutre (musique neutre) et condition négative (musique triste)"
+  },
+  {
+    "objectID": "Cours.html#miranda-kihlstrom-2005-1",
+    "href": "Cours.html#miranda-kihlstrom-2005-1",
+    "title": "Émotion et Cognition",
+    "section": "Miranda & Kihlstrom (2005)",
+    "text": "Miranda & Kihlstrom (2005)\n\nLes participants jugent + agréables les souvenirs + sous émotion +\nPlus (+) désagréables les souvenirs – sous émotion –\nLes souvenirs neutres sont jugés :\n\nplus (+) agréables sous émotion +\nmoins (-) agréables sous émotion –\n\n=&gt; Effet de congruence affective sur le jugement de valence émotionnelle des souvenirs"
+  },
+  {
+    "objectID": "Cours.html#effets-de-congruence-affective-sur-la-mémoire-et-le-jugement-des-souvenirs",
+    "href": "Cours.html#effets-de-congruence-affective-sur-la-mémoire-et-le-jugement-des-souvenirs",
+    "title": "Émotion et Cognition",
+    "section": "Effets de congruence affective sur la mémoire et le jugement des souvenirs",
+    "text": "Effets de congruence affective sur la mémoire et le jugement des souvenirs\n\nUn état émotionnel – nous amène à encoder, à maintenir et à rappeler plus de souvenirs et d’informations négatives\nOn va juger ces informations et souvenirs comme encore plus négatifs\nDans un état de tristesse, les jugements et souvenirs tristes nous rendent tristes et nous maintiennent dans la tristesse\nCela fonctionne de la même façon pour la joie (récupération de souvenirs joyeux, jugés encore plus joyeux et maintien de l’état de joie)"
+  },
+  {
+    "objectID": "Cours.html#effets-de-dépendance-aux-contextes-émotionnels",
+    "href": "Cours.html#effets-de-dépendance-aux-contextes-émotionnels",
+    "title": "Émotion et Cognition",
+    "section": "Effets de dépendance aux contextes émotionnels",
+    "text": "Effets de dépendance aux contextes émotionnels\n\nEffets de contexte testés depuis longtemps en psychologie cognitive de la mémoire\n\nInformations mieux rappelées si les contextes d’encodage et de rappel sont les mêmes que s’ils diffèrent\nEx : Godden & Baddeley (1975), Robin et al. (2020)\nL’environnement physique joue un rôle\n\nEst-ce que le rappel est meilleur quand on ressent la même émotion pendant l’encodage et pendant la récupération en mémoire ?\n\nEst-ce que l’environnement émotionnel joue aussi un rôle ?\n\n\n\nGodden & Baddeley (1975) : les plongeurs qui apprennent une liste de mots en plongée se rappellent mieux celle-ci sous l’eau que sur la plage Robin et al. (2020) chez des bilingues créole/français : rappel de mots en créole n’est pas impacté par le stress thermique (chaleur) alors qu’il l’est pour les mots en français (-&gt; rappel de mots français meilleur à température de 20 degrés qu’à 30). RMQ : réplications diverses, consensus sur effet réel mais dépendant de plusieurs facteurs et question de la taille de l’effet"
+  },
+  {
+    "objectID": "Cours.html#dépendance-aux-contextes-émotionnels",
+    "href": "Cours.html#dépendance-aux-contextes-émotionnels",
+    "title": "Émotion et Cognition",
+    "section": "Dépendance aux contextes émotionnels",
+    "text": "Dépendance aux contextes émotionnels\nEich et al. (1994)\n\nLecture de mots inducteurs neutres/ induction musicale (joyeuse ou triste)\n\nPour chaque mot, le participant rappelle un souvenir (daté, situé, quelques détails)\nCondition contrainte : l’expérimentateur demande de rappeler un souvenir positif ou négatif pour chaque mot\nCondition non contrainte : le participant rappelle le souvenir de son choix pour chaque mot inducteur\n\nRécupération en mémoire des souvenirs choisis lors de l’encodage\n\nDans le même état émotionnel (induit par la musique) ou pas\nÀ 2 jours et à 7 jours\n\n\n\nRMQ : mesure contrôle de l’état émotionnel par l’induction musicale"
+  },
+  {
+    "objectID": "Cours.html#eich-et-al.-1994",
+    "href": "Cours.html#eich-et-al.-1994",
+    "title": "Émotion et Cognition",
+    "section": "Eich et al. (1994)",
+    "text": "Eich et al. (1994)\n\n\n\nMeilleur taux de rappel quand le contexte émotionnel est le même pour l’encodage et le rappel à 2 jours, contrainte ou non sur la valence du souvenir à rappeler\nMais la différence s’estompe avec le temps et disparaît à 7 jours"
   }
 ]
