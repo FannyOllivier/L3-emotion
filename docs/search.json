@@ -592,7 +592,7 @@
     "href": "Cours.html#effet-damplification-sur-des-textesscènes-3",
     "title": "Émotion et Cognition",
     "section": "Effet d’amplification sur des textes/scènes",
-    "text": "Effet d’amplification sur des textes/scènes\nSi on regarde le détail des slides\n\n\nRMQ : 7 Une image de cerveau attire le regard de l’enfant/ Une image de cerveau montre un saignement de l’enfant"
+    "text": "Effet d’amplification sur des textes/scènes\nSi on regarde le détail des slides\n\n\nRMQ : 7 Une image de cerveau attire le regard de l’enfant/ Une image de cerveau montre un saignement de l’enfant. Fin S6"
   },
   {
     "objectID": "Cours.html#effet-damplification-de-la-mémorisation-dû-à-lémotion-ou-au-fait-de-parler-de-ce-que-lon-a-vu",
@@ -726,5 +726,68 @@
     "title": "Émotion et Cognition",
     "section": "Eich et al. (1994)",
     "text": "Eich et al. (1994)\n\n\n\nMeilleur taux de rappel quand le contexte émotionnel est le même pour l’encodage et le rappel à 2 jours, contrainte ou non sur la valence du souvenir à rappeler\nMais la différence s’estompe avec le temps et disparaît à 7 jours"
+  },
+  {
+    "objectID": "Cours.html#effet-tunnel",
+    "href": "Cours.html#effet-tunnel",
+    "title": "Émotion et Cognition",
+    "section": "Effet tunnel",
+    "text": "Effet tunnel\n\nLors d’une émotion forte (agression par exemple), on se souvient parfaitement de certaines informations et on en oublie d’autres\nSélectivité mnésique\n\nMemory narrowing (e.g., Reisberg & Heuer, 2004),\nTunnel memory (Safer, Christianson, Autry, & Osterlund, 1998),\nMemory trade-off effect (e.g., Kensinger, Garoff-Eaton, & Schacter, 2007)\n\nEncodage prioritaire des informations directement liées à l’émotion (ex : arme)\nMoins bon encodage des éléments périphériques\n\n\n\nMemory narrowing Concept général (souvent utilisé comme terme “parapluie”) Décrit le fait que l’émotion : renforce la mémoire des éléments centraux altère la mémoire des éléments périphériques C’est l’idée globale que la mémoire “se rétrécit” autour de ce qui est émotionnellement saillant.\nTunnel memory Souvent utilisée dans des contextes de stress ou situations émotionnelles intenses (ex : témoins d’un crime) attention = un tunnel et focalisation forte sur un élément central (ex : une arme) perte des détails périphériques\n\nTrès proche du memory narrowing, mais : plus centrée sur l’attention et souvent associée à des situations écologiques (réelles) 3. Memory trade-off effect Concept plus expérimental et quantifié Met l’accent sur le compromis mesurable :\ngain de mémoire pour les éléments émotionnels perte pour les éléments neutres associés\nTypiquement observé dans des paradigmes labo : ex : objet émotionnel sur fond neutre bon rappel de l’objet mauvais rappel du contexte"
+  },
+  {
+    "objectID": "Cours.html#effet-de-trade-off-en-mémoire",
+    "href": "Cours.html#effet-de-trade-off-en-mémoire",
+    "title": "Émotion et Cognition",
+    "section": "Effet de trade-off en mémoire",
+    "text": "Effet de trade-off en mémoire\nKensigner et al. (2007)\n\nImages avec un objet central dans un environnement neutre\nObjet central\n\nNeutre : voiture, écureuil\nÉmotionnel : voiture accidentée, serpent\n\nChaque participant voit 64 images pendant 2s/image (exp1) ou 5s (exp2)\nTâche simple de jugement : approcheriez-vous de la scène ? (1-7 points)"
+  },
+  {
+    "objectID": "Cours.html#kensinger-et-al.-2007---méthodologie",
+    "href": "Cours.html#kensinger-et-al.-2007---méthodologie",
+    "title": "Émotion et Cognition",
+    "section": "Kensinger et al. (2007) - Méthodologie",
+    "text": "Kensinger et al. (2007) - Méthodologie"
+  },
+  {
+    "objectID": "Cours.html#kensinger-et-al.-2007---méthodologie-1",
+    "href": "Cours.html#kensinger-et-al.-2007---méthodologie-1",
+    "title": "Émotion et Cognition",
+    "section": "Kensinger et al. (2007) - Méthodologie",
+    "text": "Kensinger et al. (2007) - Méthodologie\n\n30 minutes après, tâche de reconnaissance\n\n16 éléments identiques (même écureuil), 16 semblables (écureuil mais pas celui de l’image encodée), 16 différents (lapin)\n16 environnements identiques, 16 semblables, 16 différents\n\n4 expériences\n\nexp1 : 2s/image pendant l’encodage\nexp 2 : 5s/image pendant l’encodage\nexp 3 : 5s/image + raconter une histoire sur la scène vue\nexp 4 : 5s/image + décrire la scène pour un artiste\n\n\n\nle participant doit juger si ce qu’on lui présente est identique, semblable ou différent"
+  },
+  {
+    "objectID": "Cours.html#kensinger-et-al.-2007---méthodologie-2",
+    "href": "Cours.html#kensinger-et-al.-2007---méthodologie-2",
+    "title": "Émotion et Cognition",
+    "section": "Kensinger et al. (2007) - Méthodologie",
+    "text": "Kensinger et al. (2007) - Méthodologie"
+  },
+  {
+    "objectID": "Cours.html#kensinger-et-al.-2007---résultats",
+    "href": "Cours.html#kensinger-et-al.-2007---résultats",
+    "title": "Émotion et Cognition",
+    "section": "Kensinger et al. (2007) - Résultats",
+    "text": "Kensinger et al. (2007) - Résultats\n\n\n\n\n\n\nSpecific Recognition : reconnaissance des détails (ex : écureuil spécifique, avenue spécifique)\nGist (General) : reconnaissance du thème général au moins (ex : animal ou avenue + semblables comme un écureuil différent ou une avenue différente)\nGist Only : reconnaissance du thème général uniquement (ex : animal mais sans savoir lequel)"
+  },
+  {
+    "objectID": "Cours.html#kensinger-et-al.-2007---résultats-1",
+    "href": "Cours.html#kensinger-et-al.-2007---résultats-1",
+    "title": "Émotion et Cognition",
+    "section": "Kensinger et al. (2007) - Résultats",
+    "text": "Kensinger et al. (2007) - Résultats\n\nObjets centraux négatifs mieux reconnus que les objets centraux neutres\n\nQuel que soit le temps d’encodage\nQuelle que soit la stratégie d’encodage utilisée\n\nExp 1, 2, 3 :\n\nPhénomène de trade-off centre/périphérie dans la reconnaissance spécifique des éléments\nMeilleure mémorisation des objets centraux émotionnels aux dépens des objets périphériques\n\nExp 4 :\n\nPas de trade-off centre/périphérie dans la reconnaissance spécifique des éléments\n\nPas d’automaticité du phénomène de trade-off\n\nModularité\n\n\n\nReparler de l’importance de la méthodologie : la documenter pour la reprodctibilité et pour le raisonnement. Construction de la méthodologie à partir de la revue de littérature et non en premier"
+  },
+  {
+    "objectID": "Cours.html#conclusion-sur-émotion-et-mémoire",
+    "href": "Cours.html#conclusion-sur-émotion-et-mémoire",
+    "title": "Émotion et Cognition",
+    "section": "Conclusion sur émotion et mémoire",
+    "text": "Conclusion sur émotion et mémoire\n\nLes émotions modifient nos performances mnésiques\n\nAmélioration\nDétérioration\n\nEffet de congruence affective entre l’encodage et le rappel\nEffet tunnel : focalisation attentionnelle sur l’information émotionnelle qui dégrade la mémorisation des autres informations\n\n\nRappel : amélioration de la performance mnésique quand le matériel est émotionnel et que l’attention est dirigée vers celui-ci, diminution de la performance quand les participants sont dans un état émotionnel négatif. Effet de congruence affective sur le jugement des souvenirs/évenements aussi. Beaucoup de facteurs et des interactions qui soulignent l’importance de réfléchir sa méthodo à partir de la littérature et de la documenter."
+  },
+  {
+    "objectID": "Cours.html#plan-de-la-partie-4---régulation-émotionnelle",
+    "href": "Cours.html#plan-de-la-partie-4---régulation-émotionnelle",
+    "title": "Émotion et Cognition",
+    "section": "Plan de la partie 4 - Régulation émotionnelle",
+    "text": "Plan de la partie 4 - Régulation émotionnelle\n\nDéfinition\nStratégies de régulation émotionnelle\nEfficacité de la régulation émotionnelle\nRégulation émotionnelle et performances cognitives"
   }
 ]

@@ -1364,7 +1364,7 @@ Si on regarde le détail des slides
 ![](images/amplifMemScen5.png)
 
 ::: notes
-RMQ : 7 Une image de cerveau attire le regard de l’enfant/ Une image de cerveau montre un saignement de l’enfant
+RMQ : 7 Une image de cerveau attire le regard de l’enfant/ Une image de cerveau montre un saignement de l’enfant. Fin S6
 :::
 
 ## Effet d’amplification de la mémorisation : dû à l'émotion ou au fait de parler de ce que l'on a vu ? {.scrollable}
@@ -1707,8 +1707,161 @@ RMQ : mesure contrôle de l'état émotionnel par l'induction musicale
 
 ::::
 
+## Effet tunnel {.scrollable}
+
+- Lors d’une émotion forte (agression par exemple), on se souvient parfaitement de certaines informations et on en oublie d’autres
+
+- Sélectivité mnésique
+
+    - Memory narrowing (e.g., Reisberg & Heuer, 2004), 
+    - Tunnel memory (Safer, Christianson, Autry, & Osterlund, 1998), 
+    - Memory trade-off effect (e.g., Kensinger, Garoff-Eaton, & Schacter, 2007)
+- Encodage prioritaire des informations directement liées à l’émotion (ex : arme)
+- Moins bon encodage des éléments périphériques
+
+::: notes
+1. Memory narrowing
+Concept général (souvent utilisé comme terme “parapluie”)
+Décrit le fait que l’émotion :
+renforce la mémoire des éléments centraux
+altère la mémoire des éléments périphériques
+C’est l’idée globale que la mémoire “se rétrécit” autour de ce qui est émotionnellement saillant.
+
+2. Tunnel memory
+Souvent utilisée dans des contextes de stress ou situations émotionnelles intenses (ex : témoins d’un crime)
+attention = un tunnel et focalisation forte sur un élément central (ex : une arme)
+perte des détails périphériques
+
+Très proche du memory narrowing, mais : plus centrée sur l’attention et
+souvent associée à des situations écologiques (réelles)
+3. Memory trade-off effect
+Concept plus expérimental et quantifié
+Met l’accent sur le compromis mesurable :
+
+gain de mémoire pour les éléments émotionnels
+perte pour les éléments neutres associés
+
+Typiquement observé dans des paradigmes labo :
+ex : objet émotionnel sur fond neutre
+bon rappel de l’objet
+mauvais rappel du contexte
+
+:::
+
+## Effet de trade-off en mémoire
+
+Kensigner et al. (2007)
+
+- Images avec un objet central dans un environnement neutre
+- Objet central 
+
+    - Neutre : voiture, écureuil
+    - Émotionnel : voiture accidentée, serpent
+
+- Chaque participant voit 64 images pendant 2s/image (exp1) ou 5s (exp2)
+- Tâche simple de jugement : approcheriez-vous de la scène ? (1-7 points)
+
+::: notes
+
+:::
+
+## Kensinger et al. (2007) - Méthodologie
+
+![](images/kensinger1.png)
 
 
+## Kensinger et al. (2007) - Méthodologie
+
+- 30 minutes après, tâche de reconnaissance
+
+    - 16 éléments identiques (même écureuil), 16 semblables (écureuil mais pas celui de l’image encodée), 16 différents (lapin)
+    - 16 environnements identiques, 16 semblables, 16 différents
+
+- 4 expériences
+
+    - exp1 : 2s/image pendant l’encodage
+    - exp 2 : 5s/image pendant l’encodage
+    - exp 3 : 5s/image + raconter une histoire sur la scène vue
+    - exp 4 : 5s/image + décrire la scène pour un artiste 
+
+::: notes
+le participant doit juger si ce qu'on lui présente est identique, semblable ou différent
+:::
+
+## Kensinger et al. (2007) - Méthodologie
+
+![](images/kensinger2.png)
 
 
+## Kensinger et al. (2007) - Résultats {.scrollable}
+
+:::: {layout-col=2}
+
+::: {#first-column}
+![](images/kensinger3.png)
+
+:::
+
+::: {#second-column}
+
+- *Specific Recognition* : reconnaissance des détails (ex : écureuil spécifique, avenue spécifique)
+- *Gist (General)* : reconnaissance du thème général au moins (ex : animal ou avenue + semblables comme un écureuil différent ou une avenue différente)
+- *Gist Only* : reconnaissance du thème général uniquement (ex : animal mais sans savoir lequel)
+
+:::
+::::
+
+
+## Kensinger et al. (2007) - Résultats {.scrollable}
+
+- Objets centraux négatifs mieux reconnus que les objets centraux neutres
+
+    - Quel que soit le temps d'encodage
+    - Quelle que soit la stratégie d'encodage utilisée
+    
+- Exp 1, 2, 3 : 
+
+    - Phénomène de trade-off centre/périphérie dans la reconnaissance spécifique des éléments
+    - Meilleure mémorisation des objets centraux émotionnels aux dépens des objets périphériques
+    
+- Exp 4 : 
+
+    - Pas de trade-off centre/périphérie dans la reconnaissance spécifique des éléments
+
+- Pas d'automaticité du phénomène de trade-off
+
+    - Modularité 
+    
+::: notes
+Reparler de l'importance de la méthodologie : la documenter pour la reprodctibilité et pour le raisonnement. Construction de la méthodologie à partir de la revue de littérature et non en premier
+:::
+
+## Conclusion sur émotion et mémoire
+
+- Les émotions modifient nos performances mnésiques
+
+    - Amélioration
+    - Détérioration
+
+- Effet de congruence affective entre l’encodage et le rappel
+
+- Effet tunnel : focalisation attentionnelle sur l’information émotionnelle qui dégrade la mémorisation des autres informations
+
+
+::: notes
+Rappel : amélioration de la performance mnésique quand le matériel est émotionnel et que l'attention est dirigée vers celui-ci, diminution de la performance quand les participants sont dans un état émotionnel négatif. 
+Effet de congruence affective sur le jugement des souvenirs/évenements aussi.
+Beaucoup de facteurs et des interactions qui soulignent l'importance de réfléchir sa méthodo à partir de la littérature et de la documenter.
+:::
+
+# Partie 4 : Effets de la régulation émotionnelle sur les performances cognitives
+
+## Plan de la partie 4 - Régulation émotionnelle
+
+- Définition
+- Stratégies de régulation émotionnelle
+- Efficacité de la régulation émotionnelle
+- Régulation émotionnelle et performances cognitives
+
+# Régulation émotionnelle : Définition
 
