@@ -1865,3 +1865,321 @@ Beaucoup de facteurs et des interactions qui soulignent l'importance de réfléc
 
 # Régulation émotionnelle : Définition
 
+
+## Régulation émotionnelle 
+
+- Fait référence à l’influence de nos émotions ou de celles des autres
+- Gross (1998)
+
+    «processus par lesquels les individus influencent quelles émotions ils ressentent, quand ils ressentent ces émotions, et quelles expériences ils en ont, ainsi que comment ils expriment ces émotions» (p.275)
+
+::: notes
+Commencer par un exemple : bof/ ou exemple du rire lors des enterrements
+Un personnage qui se promène et rencontre un chien. Type : passage de peur à colère que le chien ne soit pas tenu en laisse
+Moment : en examen, on va faire en sorte de décaler le moment où on est stressé à avant ou après
+:::
+
+## Régulation émotionnelle
+
+Repose sur un ensemble de mécanismes pour modifier :
+
+- Le type et la durée de l’émotion ressentie
+- Le moment où l’émotion est ressentie
+- L’expérience (ou l’intensité) subjective de l’émotion ressentie
+- La manière d’exprimer l’émotion ressentie/vécue
+
+::: notes
+ex : un collègue critique votre travail dans le groupe. Modifier le type d'émotion : l'émotion négative liée à la vexation de la critique -> émotion positive liée à la motivation d'améliorer pour avoir une bonne note
+Limiter la durée pour se focaliser de nouveau sur le travail.
+Prendre moins pour soi (comprendre que le reste du groupe est stressé par exemple)
+Ne pas se montrer agressif 
+Ou exemple de la mère de Jason en ESS
+:::
+
+## Régulation émotionnelle
+
+- Lorsqu’une émotion est évaluée
+- Que l’évaluation nous donne envie de modifier l’émotion
+- Émotion désagréable ou non appropriée à la situation ou à nos objectifs
+- Évaluation déclenche l’envie (ou le but) consciente ou non de la modifier
+
+    => Mobilise une évaluation de l’évaluation
+    
+
+## Régulation émotionnelle, coping, régulation de l’humeur {.scrollable}
+
+Coping
+
+- Focalisé sur la diminution des affects négatifs
+- Mis en œuvre sur de plus longues périodes que la RE
+
+Régulation (ou réparation) de l’humeur
+
+- Focalisée sur la modification de l’expérience (subjective) émotionnelle et non sur le comportement émotionnel
+
+
+::: notes
+Coping : affects négatifs uniquement alors que RE non (par exemple, RE pour cacher un rire quand quelqu’un tombe)
+
+Régulation de l’humeur : on va chercher à être globalement plus positif par exemple, à la différence de la RE qui intervient en réaction à un comportement émotionnel dans une situation donnée
+:::
+
+## Composantes fondamentales de la RE
+
+3 composantes (Gross, 2014) : 
+
+- But
+- Stratégies
+- Résultat
+
+
+## Composantes fondamentales de la RE - But
+
+- Ce que le participant essaie de réaliser 
+
+    Ex : diminuer une émotion négative
+
+- Représentation cognitive d’un état émotionnel final
+- Activation d’un but pour modifier le déclenchement d’une émotion
+
+    **=> Régulation intrinsèque (déterminée par l’individu) ou extrinsèque (déterminée par un agent extérieur)**
+
+::: notes
+Exemple du chien : diminuer sa peur face au chien. On active un but (être tranquille - passer tranquillement pour ne pas énerver le chien ou pour que les amis ne voient pas la peur) pour modifier le déclenchement d’une émotion.
+Il semble qu’on souhaite globalement tous réduire les émotions négatives et augmenter les émotions positives mais pour autant,
+Tout le monde n’a pas le même but dans une même situation. Ex: on peut vouloir apaiser la colère ou au contraire, la garder intense.
+Ex de régulation intrinsèque : retenir sa colère, effacer un sourire lors d’un enterrement, …
+Extrinsèque : calmer un enfant, apaiser la tristesse de quelqu’un, raconter une blague pour faire rire
+:::
+
+
+## Composantes fondamentales de la RE - But
+
+Deux approches de la RE
+
+- Approche hédonique de la régulation des affects (Larsen, 2000)
+- Approche instrumentale de la RE (Tamir, 2009) 
+
+::: notes
+Hédonique : ce qui va nous faire du bien. nous sommes motivés pour diminuer la peine à court terme et augmenter le plaisir/bien-être 
+Instrumentale : nous sommes motivés à RE pour mieux réaliser un autre but 
+:::
+
+## Composantes fondamentales de la RE - Stratégies
+
+- Comment le participant essaie d’atteindre son but
+- Utilisation de processus pour modifier la trajectoire émotionnelle
+
+    - Variation des processus
+    - Processus explicites, conscients, mobilisés de manière contrôlée
+    - Processus implicites, inconscients, mobilisés de manière automatique
+
+
+::: notes
+On les développera plus loin, mais pour l’instant, ce que l’on peut noter, c’est que ces processus peuvent varier
+:::
+
+## Composantes fondamentales de la RE - Résultat {.scrollable}
+
+- Conséquences de la régulation émotionnelle
+
+    - Modification ou non d’une émotion
+    - Quels résultats de la stratégie utilisée par rapport au but poursuivi ?
+
+- Impact de la stratégie de régulation émotionnelle sur différents indicateurs
+
+    - Latence de déclenchement,
+    - Durée, 
+    - Intensité, 
+    - Début/fin de la réponse (comportementale, physiologique) de l’organisme
+
+
+# Stratégies de régulation émotionnelle
+
+::: notes
+Rappelons qu’une émotion survient lorsque nous nous trouvons dans une situation ou face à un stimulus que nous évaluons (son caractère dangereux ou pas, ou son caractère agréable/désagréable) et peut s’exprimer à différents niveaux (depuis les manifestations physiologiques, comme l’accélération du rythme cardiaque, jusqu’aux niveaux psychologiques et comportementaux, comme un ressenti subjectif de peur et une fuite). Une fois déclenchée, avant ou après avoir été déclenchée, une émotion peut être modifiée par différentes stratégies. Les stratégies de régulation émotionnelle peuvent être distinguées sur plusieurs critères, comme par exemple les étapes d’une expérience émotionnelle (e.g., Gross, 1998), sur le fait que la stratégie implique une action physique ou une action cognitive (e.g., Parkinson & Totterdell, 1999), ou sur le fait que la régulation cible un processus, comme l’attention au stimulus, une information sur la nature des informations contenues dans le stimulus déclencheur de l’émotion, ou sur une manifestation physique de l’émotion ou bien encore selon que le but de la régulation est l’augmentation/diminution du bien-être ou mal-être associé à une émotion ou d’améliorer une performance cognitive ou des relations sociales ou, plus généralement, atteindre un objectif à plus long terme (Koole, 2009; Tamir, 2009). Au-delà de différences sur la base desquelles faire une distinction entre plusieurs stratégies, les différentes distinctions proposées partagent un certain nombre de postulats, comme le fait qu’il existe un répertoire varié de stratégies de régulations émotionnelles, qu’un individu ne mobilise pas nécessairement qu’une seule stratégie même s’il peut avoir des préférences, et le fait que les différentes stratégies n’ont pas le même niveau d’efficacité dans différents contextes. L’une des distinctions les plus utilisées dans la littérature est celle proposée par Gross et ses collègues.
+:::
+
+
+## Répertoire de stratégies de régulation émotionnelle
+
+![](images/stratRE1.png)
+
+
+::: notes
+Selon le modèle de la régulation émotionnelle qu’ont proposé Gross et ses collaborateurs (e.g., Gross, 1995, 1998; Gross & Thompson, 2007), la régulation émotionnelle peut intervenir à plusieurs niveaux, à commencer par la situation qui déclenche une émotion, qu’il peut sélectionner ou modifier, ce qui va permettre de déclencher ou d’éviter une émotion). Ainsi, un participant peut choisir de se retrouver ou pas dans une situation dont il sait qu’elle déclenche une émotion ou au contraire choisir une situation qu’il sait déclencher chez lui une certaine émotion (e.g., le participant peut éviter les chiens s’il a peur des chiens, éviter une voisine grincheuse et dont les plaintes ne sont pas agréables, se rendre chez des amis pleins d’humour, ou encore monter dans un manège à sensation si cela lui procure du plaisir). 
+Le participant peut également modifier une situation dans laquelle il se retrouve et qui active en lui une émotion qu’il aurait envie de modifier (e.g.,  suggérer un jeu de société au cours d’une soirée ennuyeuse, y raconter une blague ou lancer un débat politique). 
+Une autre famille de stratégies de régulation émotionnelle peut être mise en œuvre au moment où le participant alloue des ressources attentionnelles au traitement de la situation ou du stimulus déclencheurs d’une émotion. Il peut ainsi utiliser une stratégie de distraction en détournant son attention d’un stimulus émotionnel ou allouer une attention moindre à ce stimulus (e.g., à la vue d’une araignée, le participant qui a horreur des araignées détourne son attention d’une araignée qu’il vient d’apercevoir, pense à quelque chose d’émotionnellement neutre, ou repense à des amis ou des proches qui lui sont chers). 
+Le participant peut également utiliser rumination (e.g., un participant peut ruminer un souvenir triste, repenser intensément à une très bonne nouvelle qu’il vient de recevoir) ou une focalisation attentionnelle sur le ressenti (e.g., le participant prête une très grande attention à ce qu’il ressent). 
+Par ailleurs, un participant peut réguler ses émotions grâce à un traitement cognitif ou une réévaluation cognitive de la situation et de l’émotion ressentie. Cette réévaluation cognitive comprend plusieurs stratégies qui ont toutes pour point commun de permettre de réinterpréter ou ré-évaluer la signification, ce qui aboutit à lui donner une autre signification, après avoir modifié la manière d’appréhender la situation, la signification émotionnelle de cette situation, ou envisager une autre manière de la gérer. Accepter la situation et l’émotion qui va avec, comme après un deuil, est un exemple de l’une de ces stratégies de réévaluation cognitive, se rendre compte que la colère de quelqu’un n’était pas dirigée contre soi est un autre exemple. Enfin, la dernière catégorie de stratégie de régulation émotionnelle concerne la réponse ou l’expression de l’émotion et consiste à tenter d’infléchir l’expression d’une réponse (comportementale, physiologique) émotionnelle déjà engagée. Ainsi, prendre une respiration profonde, de l’alcool ou autre substance (tabac, nourriture), ne pas exprimer sa colère constituent des exemples de stratégie de régulation émotionnelle aboutissant à modifier notre réponse émotionnelle à une situation.
+:::
+
+## Résumé des types de stratégies de RE {.scrollable}
+
+![](images/stratRE2.png)
+
+
+# Utilisation des stratégies de régulation émotionnelle
+
+Quand utilise-t-on les stratégies de régulation émotionnelle ?
+
+
+## Quand les stratégies de RE sont-elles utilisées ?
+
+- Est-ce qu’on met en œuvre certaines stratégies de RE plus souvent que d’autres ?
+- Quels sont les déterminants de l’utilisation des différentes stratégies ?
+
+::: notes
+De nombreux travaux empiriques se sont focalisés sur ces questions.
+:::
+
+## Quand les stratégies de RE sont-elles utilisées ?
+
+=> Variabilité de la fréquence de la stratégie en fonction 
+
+- de l’intensité de l’émotion
+- du type d’émotion à réguler
+- du temps disponible pour réguler
+- de la difficulté d’une stratégie de régulation
+- du but émotionnel poursuivi 
+- du fait de savoir à l’avance ou non si on va devoir réguler
+
+
+## 3 exemples d’études 
+
+Études qui montrent comment l’utilisation des stratégies de régulation émotionnelle varie selon 
+
+- L’intensité émotionnelle
+- Le but poursuivi par les participants
+- Le contexte
+
+## Rôle de l’intensité émotionnelle {.scrollable}
+
+:::: {layout-col=2}
+
+::: {#firstcolumn}
+
+Sheppes et al. (2011)
+
+- Cherchent à évaluer les choix stratégiques des participants pour réguler leurs émotions
+- Expérience 1
+
+    - 30 essais : image émotionnelle (intensité faible ou forte) pendant 500 ms
+    - Les participants devaient dire s’ils avaient encodé l’image avec une **stratégie de distraction** ou une **stratégie de ré-évaluation cognitive**
+    
+:::
+
+::: {#secondcolumn}
+
+![](images/stratRE3.png)
+
+:::
+
+::::
+
+::: notes
+Rôle de l’intensité émotionnelle dans l’utilisation des stratégies de RE
+
+stratégie  de distraction (penser à quelque chose de neutre) ou une stratégie de ré-évaluation cognitive (penser à l’image comme si elle montrait quelque chose de neutre ou de moins négatif). 
+:::
+
+## Rôle de l’intensité émotionnelle {.scrollable}
+
+:::: {layout-col=2}
+
+::: {#firstcolumn}
+Sheppes et al. (2011)
+
+- Expérience 2
+
+    - 20 chocs électriques au bras gauche
+    - Participants prévenus pour chaque choc de l’intensité du choc (faible/fort)
+    - Participants indiquent s’ils ont utilisé une stratégie de distraction ou de ré-évaluation cognitive 
+
+:::
+
+::: {#secondcolumn}
+
+![](images/stratRE4.png)
+
+:::
+
+::::
+
+::: notes
+Rôle de l’intensité émotionnelle dans l’utilisation des stratégies de RE
+
+Dans une 2ème expérience, les participants recevaient 20 chocs électriques au bras gauche, après avoir été prévenus pour chaque choc si ce choc allait être de faible ou de forte intensité. Ils devaient indiquer pour chacun des chocs s’ils avaient utilisé une stratégie de distraction ou de réévaluation. 
+:::
+
+## Rôle de l’intensité émotionnelle – Sheppes et al. (2011)
+
+- Même pattern de résultats pour les images et les chocs électriques
+- Plus l’intensité du stimulus augmente, moins la ré-évaluation cognitive est utilisée
+- Stimulus faible -> ré-évaluation cognitive + fréquente
+- Stimulus fort -> distraction plus fréquente
+
+
+## Rôle de l’intensité émotionnelle – Sheppes et al. (2014), Shafir et al. (2015) {.scrollable}
+
+- Choix de la **distraction** pour minimiser l’émotion négative sur une image **à court terme**
+- Choix de la **ré-évaluation cognitive** pour minimiser l’effet **à long terme** (ex : s’ils revoient l’image plus tard)
+
+- **la stratégie de ré-évaluation cognitive est choisie**
+
+    - quand l’intensité de l’émotion est moins intense
+    - quand elle a un bénéfice plus grand à long terme
+
+- Elle permet un désengagement émotionnel plus efficace à long terme  
+- Distraction : désengagement émotionnel à court terme mais fonctionne sur des émotions intenses
+
+
+## 3 exemples d’études 
+
+Études qui montrent comment l’utilisation des stratégies de régulation émotionnelle varie selon 
+
+- ~~L’intensité émotionnelle~~
+- **Le but poursuivi par les participants**
+- Le contexte
+
+::: notes
+Rappel : on a vu que selon l’intensité émotionnelle de l’événement, la ré-évaluation cognitive ou la distraction pouvaient être choisies. La fréquence de l’une ou de l’autre dépendait de l’intensité émotionnelle mais aussi du fait de réguler à court ou long terme. 
+Nous allons à présent voir que l’utilisation des stratégies de régulation émotionnelle varie selon le but poursuivi par les participants.
+:::
+
+## Rôle du but émotionnel dans la sélection stratégique en régulation émotionnelle
+
+Millgram et al. (2019)
+
+- Présentation d’images positives (20, joyeuses) et négatives (20, tristes)
+- Avant chaque image : consigne d’amplifier OU de diminuer l’émotion ressentie à l’encodage de l’image
+- Après chaque image : dire si pour atteindre ce but, ils avaient utilisé la distraction ou la rumination
+
+::: notes
+Stratégie de distraction : penser à autre chose qu’à l’image
+Stratégie de rumination : rester focalisé sur l’image et se concentrer sur leur émotion
+:::
+
+## Rôle du but émotionnel dans la sélection stratégique en RE - Millgram et al. (2019) {.scrollable}
+
+Pourcentage d’utilisation des stratégies de rumination et de distraction en fonction du but émotionnel poursuivi sur des images tristes ou joyeuses
+
+![](images/stratRE5.png)
+
+
+::: notes
+Ajustement de la stratégie par rapport au but émotionnel. Distraction pour réduite l’émotion et rumination pour l’amplifier.
+Un contrôle de l’état émotionnel montre que les stratégies utilisées avaient bien conduit au but demandé par la consigne. 
+Stratégie de distraction : penser à autre chose qu’à l’image)
+Stratégie de rumination : rester focalisé sur l’image et se concentrer sur leur émotion
+:::
+
+## Rôle du but émotionnel dans la sélection stratégique en RE - Millgram et al. (2019)
+
+- Ajustement de la stratégie par rapport au but émotionnel
+
+    - un contrôle de l'état émotionnel montre que les stratégies utilisées ont bien conduit au but demandé dans la consigne
+    
+- Distraction pour réduire l'émotion
+- Rumination pour amplifier l'émotion
+- pour les émotions positives comme négatives 
