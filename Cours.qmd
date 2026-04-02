@@ -2001,7 +2001,7 @@ Rappelons qu’une émotion survient lorsque nous nous trouvons dans une situati
 :::
 
 
-## Répertoire de stratégies de régulation émotionnelle
+## Répertoire de stratégies de régulation émotionnelle - Modèle de Gross (1998)
 
 ![](images/stratRE1.png)
 
@@ -2014,9 +2014,39 @@ Le participant peut également utiliser rumination (e.g., un participant peut ru
 Par ailleurs, un participant peut réguler ses émotions grâce à un traitement cognitif ou une réévaluation cognitive de la situation et de l’émotion ressentie. Cette réévaluation cognitive comprend plusieurs stratégies qui ont toutes pour point commun de permettre de réinterpréter ou ré-évaluer la signification, ce qui aboutit à lui donner une autre signification, après avoir modifié la manière d’appréhender la situation, la signification émotionnelle de cette situation, ou envisager une autre manière de la gérer. Accepter la situation et l’émotion qui va avec, comme après un deuil, est un exemple de l’une de ces stratégies de réévaluation cognitive, se rendre compte que la colère de quelqu’un n’était pas dirigée contre soi est un autre exemple. Enfin, la dernière catégorie de stratégie de régulation émotionnelle concerne la réponse ou l’expression de l’émotion et consiste à tenter d’infléchir l’expression d’une réponse (comportementale, physiologique) émotionnelle déjà engagée. Ainsi, prendre une respiration profonde, de l’alcool ou autre substance (tabac, nourriture), ne pas exprimer sa colère constituent des exemples de stratégie de régulation émotionnelle aboutissant à modifier notre réponse émotionnelle à une situation.
 :::
 
-## Résumé des types de stratégies de RE {.scrollable}
+## Résumé des types de stratégies de RE - Modèle de Gross (1998) {.scrollable}
 
 ![](images/stratRE2.png)
+
+::: notes
+Stratégies issus du modèle de Gross (1998), mais d'autres stratégies de RE ont été identifiées et n'apparaissent pas dans ce modèle. Ce modèle s'intéresse surtout aux stratégies cognitives et intrapersonnelles orientées vers la modification de l'émotion. 
+
+Redéploiement de l'attention = distraction
+
+Changer la réponse -> suppression (=inhiber les expressions des émotions)
+::: 
+
+
+## D'autres stratégies de RE
+
+- Acceptation
+  
+    - laisser exister l'émotion sans chercher à la changer 
+    
+- Suppression cognitive
+
+    - essayer de ne pas penser à une situation, à un problème par exemple 
+
+- Stratégies interpersonnelles
+
+    - recherche de soutien, partage social des émotions, réassurance, co-régulation
+
+- Stratégies physiologiques
+
+    - respirer profondément, cohérence cardiaque
+
+
+
 
 
 # Utilisation des stratégies de régulation émotionnelle
@@ -2183,3 +2213,116 @@ Stratégie de rumination : rester focalisé sur l’image et se concentrer sur l
 - Distraction pour réduire l'émotion
 - Rumination pour amplifier l'émotion
 - pour les émotions positives comme négatives 
+
+## 3 exemples d’études 
+
+Études qui montrent comment l’utilisation des stratégies de régulation émotionnelle varie selon 
+
+- ~~L’intensité émotionnelle~~
+- ~~Le but poursuivi par les participants~~
+- **Le contexte**
+
+## Effet du contexte et utilisation stratégique
+
+McRae et al. (2011)
+
+- Participants : 2558 (54% d’hommes, Mâge=36, SD=11) 
+- Recrutés au festival Burning Man
+- 2 questions adaptées de l’ERQ Suppression scale et de l’ERQ Reappraisal scale (Gross & John, 2003) 
+
+    - When I want to control my emotions, I do so by not expressing them (Suppression)
+    - When I want to control my emotions, I do so by changing the way I think about the situation (Ré évaluation cognitive)
+
+- Réponse au festival / à la maison
+
+::: notes
+Burning Man : festival artistique dans le désert du Nevada. Ville qui se construit. Pas d’argent sur place. Connu pour être un endroit où les gens disent se sentir eux-mêmes.
+Illustration de 2022 (Inondations en 2023)
+
+Echelles en 9 points pour les deux questions avec en 1- Not at all like me, au milieu Neutral et en 9- Very much like me
+:::
+
+## Emotion Regulation Questionnaire (Gross & John, 2003)
+
+> Gross, J. J., & John, O. P. (2003). Individual differences in two emotion regulation processes: Implications for affect, relationships, and well-being. **Journal of personality and social psychology, 85**(2), 348-362. https://doi.org/10.1037/0022-3514.85.2.348
+
+
+
+## Effet du contexte et utilisation stratégique
+
+{{< video images/BurningMan.mp4 >}}
+
+::: notes
+Burning Man : festival artistique dans le désert du Nevada. Ville qui se construit. Pas d’argent sur place. Connu pour être un endroit où les gens disent se sentir eux-mêmes.
+Illustration de 2022 (Inondations en 2023)
+:::
+
+## Effet du contexte et utilisation stratégique
+
+McRae et al. (2011)
+
+- Hypothèse ?
+- Les participants utilisent moins la suppression des émotions dans le cadre du festival que dans leur environnement classique
+
+    - Les normes concernant l’expression des émotions dans les pays occidentaux ne sont pas aussi présentes dans le festival 
+    
+::: notes
+Gross et John (2003) montrent que les hommes utilisent davantage la suppression que les femmes et que les blancs américains utilisent moins la suppression que les américains d'autres origines. Cette étude met en évidence un effet du genre et de l’origine sur l’utilisation de la suppression expressive, interprété par les auteurs comme reflétant une adaptation aux normes sociales et culturelles.
+L'étude de McRae et al. (2011) cherche à étendre ces connaissances en étudiant des différences intra-individuelles avec l'effet du contexte sur l'utilisation de la suppression. 
+:::
+
+## Effet du contexte et utilisation stratégique - Résultat {.scrollable}
+
+:::: {.layout-col=2}
+
+::: {#firstcolumn}
+
+McRae et al. (2011)
+
+- La suppression est moins utilisée en contexte de festival que la ré évaluation cognitive
+
+    **=> L’utilisation des stratégies de RE dépend du contexte**
+    
+:::
+
+::: {#secondcolumn}
+
+![](images/mcrae.png)
+
+:::
+
+::::
+
+::: notes
+En ordonnée la fréquence d’utilisation des stratégies, en abscisse les deux situations : dans l’environnement habituel/au festival. En pointillé la ré évaluation cognitive et en trait plein la suppression.
+
+POMP : percent of maximum possible score. Permet de mettre deux scores qui ne seraient pas sur la même échelle (ex : score en 7 points et score en 9 points) dans le même graphique. Ce n'est pas le cas ici. 
+Ici, l'intêret est de voir l'importance de l'utilisation. Le pourcentage indique si la stratégie est beaucoup ou peu utilisée. IL se calcule : (score moyen - score minimum) / (score max - score min) * 100
+ex : rééval cognitive au burning man = 60 => ça ne veut pas dire que 60% des gens l'utilisent. Ca veut dire que le niveau d'utilisation moyen est de 60% du maximum possible. 
+On peut retrouver le score moyen : (score moyen-1)/(7-1)x100=60, score moyen = (6*60/100)+1 = 4.6 (sur 7)
+Permet de voir où se situe le score moyen d'utilisation de la stratégie sur une échelle de 0 à 100.
+:::
+
+## Conclusion - Utilisation de stratégies de RE
+
+La fréquence d’utilisation des stratégies de régulation émotionnelle dépend 
+
+- De l’intensité de l’émotion
+- Du but de la régulation émotionnelle
+- Du contexte 
+- (entre autres !)
+
+::: notes
+ex de entre autres : genre, origine, pratique de la médiation de pleine conscience
+:::
+
+
+# Exécution des stratégies de régulation émotionnelle
+
+Efficacité des stratégies
+
+::: notes
+Expliquer que dans les modèles théoriques sur les stratégies (notamment ASCM de Siegler & Shipley (1995)) on parle de répertoire de stratégies pour les stratégies utilisées (description), d’utilisation des stratégies pour la fréquence d’utilisation et d’exécution des stratégies pour l’efficacité des stratégies.  
+:::
+
+## 
