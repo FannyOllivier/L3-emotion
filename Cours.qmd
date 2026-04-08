@@ -1750,7 +1750,7 @@ mauvais rappel du contexte
 
 ## Effet de trade-off en mémoire
 
-Kensigner et al. (2007)
+Kensinger et al. (2007)
 
 - Images avec un objet central dans un environnement neutre
 - Objet central 
@@ -1762,7 +1762,7 @@ Kensigner et al. (2007)
 - Tâche simple de jugement : approcheriez-vous de la scène ? (1-7 points)
 
 ::: notes
-
+le partipant ne voit qu'une des images de la planche présentée en exemple. Les autres images sont des variations.
 :::
 
 ## Kensinger et al. (2007) - Méthodologie
@@ -1772,7 +1772,7 @@ Kensigner et al. (2007)
 
 ## Kensinger et al. (2007) - Méthodologie
 
-- 30 minutes après, tâche de reconnaissance
+- 30 minutes après, tâche de reconnaissance des éléments isolés 
 
     - 16 éléments identiques (même écureuil), 16 semblables (écureuil mais pas celui de l’image encodée), 16 différents (lapin)
     - 16 environnements identiques, 16 semblables, 16 différents
@@ -1785,7 +1785,7 @@ Kensigner et al. (2007)
     - exp 4 : 5s/image + décrire la scène pour un artiste 
 
 ::: notes
-le participant doit juger si ce qu'on lui présente est identique, semblable ou différent
+le participant doit juger si ce qu'on lui présente est identique, semblable ou différent. On ne lui présente plus les scènes complètes mais des éléments isolés.
 :::
 
 ## Kensinger et al. (2007) - Méthodologie
