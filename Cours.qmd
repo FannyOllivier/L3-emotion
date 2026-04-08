@@ -2222,11 +2222,11 @@ Stratégie de rumination : rester focalisé sur l’image et se concentrer sur l
 - ~~Le but poursuivi par les participants~~
 - **Le contexte**
 
-## Effet du contexte et utilisation stratégique
+## Effet du contexte et utilisation stratégique { .scrollable}
 
 McRae et al. (2011)
 
-- Participants : 2558 (54% d’hommes, Mâge=36, SD=11) 
+- Participants : N=2558 (54% d’hommes, $M_{\hat{A}GE}$=36, SD=11) 
 - Recrutés au festival Burning Man
 - 2 questions adaptées de l’ERQ Suppression scale et de l’ERQ Reappraisal scale (Gross & John, 2003) 
 
@@ -2237,9 +2237,8 @@ McRae et al. (2011)
 
 ::: notes
 Burning Man : festival artistique dans le désert du Nevada. Ville qui se construit. Pas d’argent sur place. Connu pour être un endroit où les gens disent se sentir eux-mêmes.
-Illustration de 2022 (Inondations en 2023)
 
-Echelles en 9 points pour les deux questions avec en 1- Not at all like me, au milieu Neutral et en 9- Very much like me
+Echelles en 9 points pour les deux questions avec en 1- Not at all like me, au milieu Neutral et en 9- Very much like me. Emotion Regulation Questionnaire : ERQ
 :::
 
 ## Emotion Regulation Questionnaire (Gross & John, 2003)
@@ -2248,7 +2247,7 @@ Echelles en 9 points pour les deux questions avec en 1- Not at all like me, au m
 
 
 
-## Effet du contexte et utilisation stratégique
+## Effet du contexte et utilisation stratégique { .scrollable}
 
 {{< video images/BurningMan.mp4 >}}
 
@@ -2325,4 +2324,204 @@ Efficacité des stratégies
 Expliquer que dans les modèles théoriques sur les stratégies (notamment ASCM de Siegler & Shipley (1995)) on parle de répertoire de stratégies pour les stratégies utilisées (description), d’utilisation des stratégies pour la fréquence d’utilisation et d’exécution des stratégies pour l’efficacité des stratégies.  
 :::
 
-## 
+## Résultats de la régulation émotionnelle
+
+- Dépendent de la stratégie utilisée
+- Certaines stratégies sont plus efficaces dans certaines conditions
+- D’autres régulent mieux nos émotions dans d’autres conditions
+- Résultats de la RE au niveau affectif, cognitif, social (Webb, Miles, & Sheeren, 2012)
+
+::: notes
+On va aller regarder ces résultats sur 2 stratégies : la suppression expressive (suppression de l’émotion) et la ré-évaluation cognitive (envisager la situation de façon différente)
+:::
+
+## Efficacité relative de 2 stratégies de RE { .scrollable}
+
+![](images/efficaciteRE.png)
+
+::: notes
+Le système nerveux sympathique prépare le corps à des situations qui exigent de la force et une perception accrue ou qui éveillent la peur, la colère, l'excitation ou la gêne. C'est ce qu'on appelle la réaction de lutte ou de fuite.
+:::
+
+## Efficacité relative de 2 stratégies de RE - Gross (1998) {.scrollable}
+
+Gross (1998)
+
+- 3 films vus dans cet ordre par les participants (1 minute environ pour chaque film)
+
+    - Baseline (film neutre)
+    - Traitement d’un grand brûlé 
+    - Amputation : 1 stratégie tirée au sort parmi 3
+
+- 3 stratégies 
+
+    - Suppression expressive : «Ne laisser apparaître aucune émotion»
+    - Ré évaluation cognitive : «Essayer d’adopter une attitude non-émotionnelle et détachée en essayant de penser objectivement à la scène du film»
+    - Contrôle : «Visionner le film»
+
+::: notes 
+Travaux pionniers. 
+Les expérimentateurs vérifient que les participants ont utilisé les stratégies demandées. After the amputation film, three questions were administered to assess compliance with instructions. Compared with the watch participants, both suppression participants, ;(78) = 4.7, p < .001, and reappraisal participants, f(78) = 3.2, p < .01, reported reacting less spontaneously during the amputation film, consistent with their having been asked to regulate their emotions. As expected, reappraisal participants reported trying not to feel the emotion to a greater degree than watch participants, /(78) = 8.8,/? < .001, and suppression participants, r(78) = 2.2, p < .05. Also as expected, suppression participants reported feeling but hiding emotions to a greater degree than watch participants, ?(78) = 7.3, p < .001, and reappraisal participants r(77.7) = 2.0, p < .05
+:::
+
+## Gross (1998) - Mesures
+
+- Comportementales (expressif) : réactions de dégoût (e.g., sur le visage), mouvements des lèvres 
+- Expérience subjective : auto-évaluation émotionnelle avant/après le film (e.g., dégoût de 1 à 9)
+- Physiologiques : volume de sang dans le doigt, température du doigt, conduction cutanée, temps entre deux battements de cœur 
+
+## Gross (1998) - Résultats 
+
+- Les barres représentent l'évolution du dégoût au cours de l'expérience (visionnage de la vidéo d'amputation)
+
+![](images/gross1998_1.png)
+
+## Gross (1998) - Résultats données physiologiques
+
+- Même pattern de résultats pour les différentes données physiologiques
+
+![](images/gross1998_2.png)
+
+## Conclusions Gross (1998)
+
+- Données comportementales et physiologiques vont dans le même sens 
+- Modifications de la perception de l'émotion et des réponses physiologiques quand utilisation de RE, **MAIS différenciées selon la stratégie de RE**
+- Ré évaluation cognitive plus efficace que suppression expressive sur l'expérience subjective
+- Suppression expressive active le système sympathique alors que la ré évaluation cognitive, non
+
+::: notes
+donner des exemples. S'il faut préserver son expérience subjective, alors préférer la réévaluation cognitive, mais s'il faut se sauver ou combattre, préférer la suppression expressive
+:::
+
+# Rôle de l'intensité émotionnelle sur l'exécution stratégique
+
+En quoi l’intensité émotionnelle impacte-t-elle l’efficacité des stratégies de RE ?
+
+::: notes
+Comme pour l’utilisation des stratégies, plusieurs paramètres, dont l’intensité de l’émotion influencent l’exécution des stratégies (c’est-à-dire, dans la modélisation des stratégies, l’EFFICACITE des stratégies).
+:::
+
+## Efficacité en fonction de l’intensité émotionnelle - Shaffir et al. (2015) {.scrollable}
+
+:::: {layout-col=2}
+
+::: {#firstcolumn}
+
+- 180 images
+
+    - 90 intensité faible
+    - 90 intensité forte
+
+- 3 conditions
+
+    - Contrôle
+    - Distraction
+    - Ré évaluation cognitive
+    
+::: 
+
+
+::: {#secondcolumn}
+
+![](images/shaffir1.png)
+:::
+
+::::
+
+::: notes
+Les stratégies sont imposées et le participant doit évaluer sur une échelle de 1 à 9 l’émotion ressentie.
+:::
+
+## Shaffir et al. (2015) - Résultats {.scrollable}
+
+- Effet de la régulation émotionnelle
+
+    - Reproduction de ce qui a été montré précédemment
+    - Émotion ressentie – intense avec une stratégie de RE (ré évaluation cognitive ou distraction) que sans (contrôle)
+    
+- Effet de l'intensité émotionnelle : résultats différents selon l'intensité émotionnelle de l'image
+
+- Images émotionnelles les + intenses : 
+
+    - Émotion ressentie - négative quand ré évaluation cognitive que dans la condition contrôle
+    - Émotion ressentie encore - négative quand distraction
+    - Expérience subjective distraction > ré évaluation cognitive > contrôle
+    
+- Images émotionnelles les - intenses : 
+
+    - Distraction et ré évaluation cognitive diminuent l'émotion négative dans des proportions comparables (+ que contrôle)
+    - Expérience subjective distraction $\equiv$ ré évaluation cognitive > contrôle
+
+# Régulation émotionnelle et performances cognitives
+
+La RE améliore-t-elle ou détériore-t-elle les performances cognitives ?
+
+## RE et performances cognitives
+
+- La régulation émotionnelle peut dégrader les performances cognitives
+- La régulation émotionnelle peut améliorer les performances
+
+## Des effets différenciés selon l'intensité de l'émotion et la nature de la stratégie de RE : un exemple
+
+Richards & Gross (2000)
+
+- 2 expériences
+
+- 1/ Clip vidéo de 140 secondes
+Condition 1 : contrôle – regarder la vidéo
+Condition 2 : + suppression expressive (ne rien laisser paraître)
+Test mémoire : 24 questions (QCM) sur le contenu de la vidéo
+
+::: notes
+Plusieurs études ont observé que la régulation émotionnelle pouvait entrainer une diminution des performances mnésiques (e.g., Johns, Inzlicht, & Schmader, 2008; Richards, Butler, & Gross, 2003; Richards & Gross, 1999, 2000, 2006). 
+Dans une première expérience, ils montraient un clip video de 140 s à leurs participants, soit dans une condition contrôle, sans régulation émotionnelle (i.e., les participants avaient pour consigne de simplement regarder la video), soit dans une condition de régulation émotionnelle par suppression expressive (i.e., les participants devaient ne rien laisser paraître de leurs émotions déclenchées par les diapositives, de sorte à ce qu’un observateur extérieur ne puisse détecter leur émotion d’après l’expression de leur visage). Après avoir vu le clip video, les participants avaient 24 questions testant leur mémorisation d’informations relatives au contenu du clip video. 
+:::
+
+## Richards & Gross (2000) - Expérience 1
+
+73% de bonnes réponses dans la condition contrôle
+64% de bonnes réponses dans la condition de régulation émotionnelle avec suppression expressive
+
+- Les ressources allouées à la suppression expressive ne semblent pas disponibles pour la mémorisation d’informations 
+- Moins bonnes performances au rappel
+
+
+## Richards & Gross (2000) – Expérience 2
+
+- Encodage : 18 diapos d’hommes +/- blessés + informations verbales sur ces hommes données par l'expérimentateur
+- Condition 1 : regarder les diapos
+- Condition 2 : + suppression expressive (ne rien laisser paraître)
+- Condition 3 : + ré évaluation cognitive (les regarder comme si on était un médecin)
+- Rappel verbal et non verbal des informations des diapos
+
+::: notes
+Les participants étaient informés du nom et de la profession de chaque homme et du fait que chacun de ces hommes avaient eu une blessure par le passé. Dans une première condition, les participants avaient pour consigne de bien regarder chaque diapo et écouter les informations associées à chacune d’elles (condition contrôle). Par ailleurs, les participants devaient en plus ne laisser transparaître aucune émotion déclenchée par chaque diapo dans une seconde condition (de suppression expressive) ou devaient regarder chaque diapositive avec de la distance comme s’ils étaient un professionnel du corps médical  dans une dernière condition (de ré-évaluation cognitive). Lorsque les participants devaient rappeler les informations associées à chaque diapositives, le taux de rappels correct était meilleur en condition contrôle (18.6 informations rappelée sur les 36), qu’en condition de ré-évaluation cognitive (16.4) et le moins bon en condition de suppression expressive (13.0). 
+:::
+
+## Richards & Gross (2000) – expérience 2, résultats { .scrollable}
+
+Taux de rappel correct moyen pour les informations **verbales**
+
+- En condition contrôle : 18,6/36
+- En condition ré évaluation cognitive : 16,4/36
+- En condition suppression expressive : 13/36
+
+- **Baisse des performances mnésiques** quand RE, différenciée selon la stratégie de RE pour les **informations verbales**
+
+- Mais motif différent pour les informations **non verbales**  
+- Quand émotion faible : 
+    
+    - informations non verbales mieux rappelées en condition contrôle > ré évaluation cognitive > suppression expressive
+    
+- Quand émotion forte : 
+
+    - informations non verbales mieux rappelées en condition ré évaluation cognitive > suppression expressive > contrôle
+    
+- **Résultats variables selon l'intensité de l'émotion et le type d'informations à rappeler**
+
+# Merci ! 
+
+
+
+
+

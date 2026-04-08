@@ -739,7 +739,7 @@
     "href": "Cours.html#effet-de-trade-off-en-mémoire",
     "title": "Émotion et Cognition",
     "section": "Effet de trade-off en mémoire",
-    "text": "Effet de trade-off en mémoire\nKensigner et al. (2007)\n\nImages avec un objet central dans un environnement neutre\nObjet central\n\nNeutre : voiture, écureuil\nÉmotionnel : voiture accidentée, serpent\n\nChaque participant voit 64 images pendant 2s/image (exp1) ou 5s (exp2)\nTâche simple de jugement : approcheriez-vous de la scène ? (1-7 points)"
+    "text": "Effet de trade-off en mémoire\nKensinger et al. (2007)\n\nImages avec un objet central dans un environnement neutre\nObjet central\n\nNeutre : voiture, écureuil\nÉmotionnel : voiture accidentée, serpent\n\nChaque participant voit 64 images pendant 2s/image (exp1) ou 5s (exp2)\nTâche simple de jugement : approcheriez-vous de la scène ? (1-7 points)\n\n\nle partipant ne voit qu’une des images de la planche présentée en exemple. Les autres images sont des variations."
   },
   {
     "objectID": "Cours.html#kensinger-et-al.-2007---méthodologie",
@@ -753,7 +753,7 @@
     "href": "Cours.html#kensinger-et-al.-2007---méthodologie-1",
     "title": "Émotion et Cognition",
     "section": "Kensinger et al. (2007) - Méthodologie",
-    "text": "Kensinger et al. (2007) - Méthodologie\n\n30 minutes après, tâche de reconnaissance\n\n16 éléments identiques (même écureuil), 16 semblables (écureuil mais pas celui de l’image encodée), 16 différents (lapin)\n16 environnements identiques, 16 semblables, 16 différents\n\n4 expériences\n\nexp1 : 2s/image pendant l’encodage\nexp 2 : 5s/image pendant l’encodage\nexp 3 : 5s/image + raconter une histoire sur la scène vue\nexp 4 : 5s/image + décrire la scène pour un artiste\n\n\n\nle participant doit juger si ce qu’on lui présente est identique, semblable ou différent"
+    "text": "Kensinger et al. (2007) - Méthodologie\n\n30 minutes après, tâche de reconnaissance des éléments isolés\n\n16 éléments identiques (même écureuil), 16 semblables (écureuil mais pas celui de l’image encodée), 16 différents (lapin)\n16 environnements identiques, 16 semblables, 16 différents\n\n4 expériences\n\nexp1 : 2s/image pendant l’encodage\nexp 2 : 5s/image pendant l’encodage\nexp 3 : 5s/image + raconter une histoire sur la scène vue\nexp 4 : 5s/image + décrire la scène pour un artiste\n\n\n\nle participant doit juger si ce qu’on lui présente est identique, semblable ou différent. On ne lui présente plus les scènes complètes mais des éléments isolés."
   },
   {
     "objectID": "Cours.html#kensinger-et-al.-2007---méthodologie-2",
@@ -963,7 +963,7 @@
     "href": "Cours.html#effet-du-contexte-et-utilisation-stratégique",
     "title": "Émotion et Cognition",
     "section": "Effet du contexte et utilisation stratégique",
-    "text": "Effet du contexte et utilisation stratégique\nMcRae et al. (2011)\n\nParticipants : 2558 (54% d’hommes, Mâge=36, SD=11)\nRecrutés au festival Burning Man\n2 questions adaptées de l’ERQ Suppression scale et de l’ERQ Reappraisal scale (Gross & John, 2003)\n\nWhen I want to control my emotions, I do so by not expressing them (Suppression)\nWhen I want to control my emotions, I do so by changing the way I think about the situation (Ré évaluation cognitive)\n\nRéponse au festival / à la maison\n\n\nBurning Man : festival artistique dans le désert du Nevada. Ville qui se construit. Pas d’argent sur place. Connu pour être un endroit où les gens disent se sentir eux-mêmes. Illustration de 2022 (Inondations en 2023)\nEchelles en 9 points pour les deux questions avec en 1- Not at all like me, au milieu Neutral et en 9- Very much like me"
+    "text": "Effet du contexte et utilisation stratégique\nMcRae et al. (2011)\n\nParticipants : N=2558 (54% d’hommes, \\(M_{\\hat{A}GE}\\)=36, SD=11)\nRecrutés au festival Burning Man\n2 questions adaptées de l’ERQ Suppression scale et de l’ERQ Reappraisal scale (Gross & John, 2003)\n\nWhen I want to control my emotions, I do so by not expressing them (Suppression)\nWhen I want to control my emotions, I do so by changing the way I think about the situation (Ré évaluation cognitive)\n\nRéponse au festival / à la maison\n\n\nBurning Man : festival artistique dans le désert du Nevada. Ville qui se construit. Pas d’argent sur place. Connu pour être un endroit où les gens disent se sentir eux-mêmes.\nEchelles en 9 points pour les deux questions avec en 1- Not at all like me, au milieu Neutral et en 9- Very much like me. Emotion Regulation Questionnaire : ERQ"
   },
   {
     "objectID": "Cours.html#emotion-regulation-questionnaire-gross-john-2003",
@@ -999,5 +999,103 @@
     "title": "Émotion et Cognition",
     "section": "Conclusion - Utilisation de stratégies de RE",
     "text": "Conclusion - Utilisation de stratégies de RE\nLa fréquence d’utilisation des stratégies de régulation émotionnelle dépend\n\nDe l’intensité de l’émotion\nDu but de la régulation émotionnelle\nDu contexte\n(entre autres !)\n\n\nex de entre autres : genre, origine, pratique de la médiation de pleine conscience"
+  },
+  {
+    "objectID": "Cours.html#résultats-de-la-régulation-émotionnelle",
+    "href": "Cours.html#résultats-de-la-régulation-émotionnelle",
+    "title": "Émotion et Cognition",
+    "section": "Résultats de la régulation émotionnelle",
+    "text": "Résultats de la régulation émotionnelle\n\nDépendent de la stratégie utilisée\nCertaines stratégies sont plus efficaces dans certaines conditions\nD’autres régulent mieux nos émotions dans d’autres conditions\nRésultats de la RE au niveau affectif, cognitif, social (Webb, Miles, & Sheeren, 2012)\n\n\nOn va aller regarder ces résultats sur 2 stratégies : la suppression expressive (suppression de l’émotion) et la ré-évaluation cognitive (envisager la situation de façon différente)"
+  },
+  {
+    "objectID": "Cours.html#efficacité-relative-de-2-stratégies-de-re",
+    "href": "Cours.html#efficacité-relative-de-2-stratégies-de-re",
+    "title": "Émotion et Cognition",
+    "section": "Efficacité relative de 2 stratégies de RE",
+    "text": "Efficacité relative de 2 stratégies de RE\n\n\nLe système nerveux sympathique prépare le corps à des situations qui exigent de la force et une perception accrue ou qui éveillent la peur, la colère, l’excitation ou la gêne. C’est ce qu’on appelle la réaction de lutte ou de fuite."
+  },
+  {
+    "objectID": "Cours.html#efficacité-relative-de-2-stratégies-de-re---gross-1998",
+    "href": "Cours.html#efficacité-relative-de-2-stratégies-de-re---gross-1998",
+    "title": "Émotion et Cognition",
+    "section": "Efficacité relative de 2 stratégies de RE - Gross (1998)",
+    "text": "Efficacité relative de 2 stratégies de RE - Gross (1998)\nGross (1998)\n\n3 films vus dans cet ordre par les participants (1 minute environ pour chaque film)\n\nBaseline (film neutre)\nTraitement d’un grand brûlé\nAmputation : 1 stratégie tirée au sort parmi 3\n\n3 stratégies\n\nSuppression expressive : «Ne laisser apparaître aucune émotion»\nRé évaluation cognitive : «Essayer d’adopter une attitude non-émotionnelle et détachée en essayant de penser objectivement à la scène du film»\nContrôle : «Visionner le film»\n\n\n\nTravaux pionniers. Les expérimentateurs vérifient que les participants ont utilisé les stratégies demandées. After the amputation film, three questions were administered to assess compliance with instructions. Compared with the watch participants, both suppression participants, ;(78) = 4.7, p &lt; .001, and reappraisal participants, f(78) = 3.2, p &lt; .01, reported reacting less spontaneously during the amputation film, consistent with their having been asked to regulate their emotions. As expected, reappraisal participants reported trying not to feel the emotion to a greater degree than watch participants, /(78) = 8.8,/? &lt; .001, and suppression participants, r(78) = 2.2, p &lt; .05. Also as expected, suppression participants reported feeling but hiding emotions to a greater degree than watch participants, ?(78) = 7.3, p &lt; .001, and reappraisal participants r(77.7) = 2.0, p &lt; .05"
+  },
+  {
+    "objectID": "Cours.html#gross-1998---mesures",
+    "href": "Cours.html#gross-1998---mesures",
+    "title": "Émotion et Cognition",
+    "section": "Gross (1998) - Mesures",
+    "text": "Gross (1998) - Mesures\n\nComportementales (expressif) : réactions de dégoût (e.g., sur le visage), mouvements des lèvres\nExpérience subjective : auto-évaluation émotionnelle avant/après le film (e.g., dégoût de 1 à 9)\nPhysiologiques : volume de sang dans le doigt, température du doigt, conduction cutanée, temps entre deux battements de cœur"
+  },
+  {
+    "objectID": "Cours.html#gross-1998---résultats",
+    "href": "Cours.html#gross-1998---résultats",
+    "title": "Émotion et Cognition",
+    "section": "Gross (1998) - Résultats",
+    "text": "Gross (1998) - Résultats\n\nLes barres représentent l’évolution du dégoût au cours de l’expérience (visionnage de la vidéo d’amputation)"
+  },
+  {
+    "objectID": "Cours.html#gross-1998---résultats-données-physiologiques",
+    "href": "Cours.html#gross-1998---résultats-données-physiologiques",
+    "title": "Émotion et Cognition",
+    "section": "Gross (1998) - Résultats données physiologiques",
+    "text": "Gross (1998) - Résultats données physiologiques\n\nMême pattern de résultats pour les différentes données physiologiques"
+  },
+  {
+    "objectID": "Cours.html#conclusions-gross-1998",
+    "href": "Cours.html#conclusions-gross-1998",
+    "title": "Émotion et Cognition",
+    "section": "Conclusions Gross (1998)",
+    "text": "Conclusions Gross (1998)\n\nDonnées comportementales et physiologiques vont dans le même sens\nModifications de la perception de l’émotion et des réponses physiologiques quand utilisation de RE, MAIS différenciées selon la stratégie de RE\nRé évaluation cognitive plus efficace que suppression expressive sur l’expérience subjective\nSuppression expressive active le système sympathique alors que la ré évaluation cognitive, non\n\n\ndonner des exemples. S’il faut préserver son expérience subjective, alors préférer la réévaluation cognitive, mais s’il faut se sauver ou combattre, préférer la suppression expressive"
+  },
+  {
+    "objectID": "Cours.html#efficacité-en-fonction-de-lintensité-émotionnelle---shaffir-et-al.-2015",
+    "href": "Cours.html#efficacité-en-fonction-de-lintensité-émotionnelle---shaffir-et-al.-2015",
+    "title": "Émotion et Cognition",
+    "section": "Efficacité en fonction de l’intensité émotionnelle - Shaffir et al. (2015)",
+    "text": "Efficacité en fonction de l’intensité émotionnelle - Shaffir et al. (2015)\n\n\n\n180 images\n\n90 intensité faible\n90 intensité forte\n\n3 conditions\n\nContrôle\nDistraction\nRé évaluation cognitive\n\n\n\n\n\n\n\n\nLes stratégies sont imposées et le participant doit évaluer sur une échelle de 1 à 9 l’émotion ressentie."
+  },
+  {
+    "objectID": "Cours.html#shaffir-et-al.-2015---résultats",
+    "href": "Cours.html#shaffir-et-al.-2015---résultats",
+    "title": "Émotion et Cognition",
+    "section": "Shaffir et al. (2015) - Résultats",
+    "text": "Shaffir et al. (2015) - Résultats\n\nEffet de la régulation émotionnelle\n\nReproduction de ce qui a été montré précédemment\nÉmotion ressentie – intense avec une stratégie de RE (ré évaluation cognitive ou distraction) que sans (contrôle)\n\nEffet de l’intensité émotionnelle : résultats différents selon l’intensité émotionnelle de l’image\nImages émotionnelles les + intenses :\n\nÉmotion ressentie - négative quand ré évaluation cognitive que dans la condition contrôle\nÉmotion ressentie encore - négative quand distraction\nExpérience subjective distraction &gt; ré évaluation cognitive &gt; contrôle\n\nImages émotionnelles les - intenses :\n\nDistraction et ré évaluation cognitive diminuent l’émotion négative dans des proportions comparables (+ que contrôle)\nExpérience subjective distraction \\(\\equiv\\) ré évaluation cognitive &gt; contrôle"
+  },
+  {
+    "objectID": "Cours.html#re-et-performances-cognitives",
+    "href": "Cours.html#re-et-performances-cognitives",
+    "title": "Émotion et Cognition",
+    "section": "RE et performances cognitives",
+    "text": "RE et performances cognitives\n\nLa régulation émotionnelle peut dégrader les performances cognitives\nLa régulation émotionnelle peut améliorer les performances"
+  },
+  {
+    "objectID": "Cours.html#des-effets-différenciés-selon-lintensité-de-lémotion-et-la-nature-de-la-stratégie-de-re-un-exemple",
+    "href": "Cours.html#des-effets-différenciés-selon-lintensité-de-lémotion-et-la-nature-de-la-stratégie-de-re-un-exemple",
+    "title": "Émotion et Cognition",
+    "section": "Des effets différenciés selon l’intensité de l’émotion et la nature de la stratégie de RE : un exemple",
+    "text": "Des effets différenciés selon l’intensité de l’émotion et la nature de la stratégie de RE : un exemple\nRichards & Gross (2000)\n\n2 expériences\n1/ Clip vidéo de 140 secondes Condition 1 : contrôle – regarder la vidéo Condition 2 : + suppression expressive (ne rien laisser paraître) Test mémoire : 24 questions (QCM) sur le contenu de la vidéo\n\n\nPlusieurs études ont observé que la régulation émotionnelle pouvait entrainer une diminution des performances mnésiques (e.g., Johns, Inzlicht, & Schmader, 2008; Richards, Butler, & Gross, 2003; Richards & Gross, 1999, 2000, 2006). Dans une première expérience, ils montraient un clip video de 140 s à leurs participants, soit dans une condition contrôle, sans régulation émotionnelle (i.e., les participants avaient pour consigne de simplement regarder la video), soit dans une condition de régulation émotionnelle par suppression expressive (i.e., les participants devaient ne rien laisser paraître de leurs émotions déclenchées par les diapositives, de sorte à ce qu’un observateur extérieur ne puisse détecter leur émotion d’après l’expression de leur visage). Après avoir vu le clip video, les participants avaient 24 questions testant leur mémorisation d’informations relatives au contenu du clip video."
+  },
+  {
+    "objectID": "Cours.html#richards-gross-2000---expérience-1",
+    "href": "Cours.html#richards-gross-2000---expérience-1",
+    "title": "Émotion et Cognition",
+    "section": "Richards & Gross (2000) - Expérience 1",
+    "text": "Richards & Gross (2000) - Expérience 1\n73% de bonnes réponses dans la condition contrôle 64% de bonnes réponses dans la condition de régulation émotionnelle avec suppression expressive\n\nLes ressources allouées à la suppression expressive ne semblent pas disponibles pour la mémorisation d’informations\nMoins bonnes performances au rappel"
+  },
+  {
+    "objectID": "Cours.html#richards-gross-2000-expérience-2",
+    "href": "Cours.html#richards-gross-2000-expérience-2",
+    "title": "Émotion et Cognition",
+    "section": "Richards & Gross (2000) – Expérience 2",
+    "text": "Richards & Gross (2000) – Expérience 2\n\nEncodage : 18 diapos d’hommes +/- blessés + informations verbales sur ces hommes données par l’expérimentateur\nCondition 1 : regarder les diapos\nCondition 2 : + suppression expressive (ne rien laisser paraître)\nCondition 3 : + ré évaluation cognitive (les regarder comme si on était un médecin)\nRappel verbal et non verbal des informations des diapos\n\n\nLes participants étaient informés du nom et de la profession de chaque homme et du fait que chacun de ces hommes avaient eu une blessure par le passé. Dans une première condition, les participants avaient pour consigne de bien regarder chaque diapo et écouter les informations associées à chacune d’elles (condition contrôle). Par ailleurs, les participants devaient en plus ne laisser transparaître aucune émotion déclenchée par chaque diapo dans une seconde condition (de suppression expressive) ou devaient regarder chaque diapositive avec de la distance comme s’ils étaient un professionnel du corps médical dans une dernière condition (de ré-évaluation cognitive). Lorsque les participants devaient rappeler les informations associées à chaque diapositives, le taux de rappels correct était meilleur en condition contrôle (18.6 informations rappelée sur les 36), qu’en condition de ré-évaluation cognitive (16.4) et le moins bon en condition de suppression expressive (13.0)."
+  },
+  {
+    "objectID": "Cours.html#richards-gross-2000-expérience-2-résultats",
+    "href": "Cours.html#richards-gross-2000-expérience-2-résultats",
+    "title": "Émotion et Cognition",
+    "section": "Richards & Gross (2000) – expérience 2, résultats",
+    "text": "Richards & Gross (2000) – expérience 2, résultats\nTaux de rappel correct moyen pour les informations verbales\n\nEn condition contrôle : 18,6/36\nEn condition ré évaluation cognitive : 16,4/36\nEn condition suppression expressive : 13/36\nBaisse des performances mnésiques quand RE, différenciée selon la stratégie de RE pour les informations verbales\nMais motif différent pour les informations non verbales\n\nQuand émotion faible :\n\ninformations non verbales mieux rappelées en condition contrôle &gt; ré évaluation cognitive &gt; suppression expressive\n\nQuand émotion forte :\n\ninformations non verbales mieux rappelées en condition ré évaluation cognitive &gt; suppression expressive &gt; contrôle\n\nRésultats variables selon l’intensité de l’émotion et le type d’informations à rappeler"
   }
 ]
